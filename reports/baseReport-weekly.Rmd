@@ -1,0 +1,237 @@
+---
+title: "Weekly Environmental Avian Influenza Intelligence Report"
+author: "WHIP - C. Robertson"
+date: "Reporting Week: `r format(Sys.Date()-7, '%d %B, %Y')` to `r format(Sys.Date(), '%d %B, %Y')`"
+output: html_document
+---
+
+This report outlinings key environmental indicators in our Alberta and BC Study Regions. This is for the week ending 
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library("RPostgreSQL")
+library("raster")
+library("ggplot2")
+library("ggmap")
+library("plyr")
+library("leaflet")
+library("stringr")
+library("rgdal")
+
+dateStart <- Sys.Date()-7
+dateEnd <- Sys.Date()
+#setwd("/Users/colinr23/Dropbox/citsci/wht/AI-Portal/AI-RPortal")
+weekNum <- (as.POSIXlt(Sys.Date())$yday %/%  7) 
+#print("tbd")
+region <- "AB" #"AB" #bc
+
+checkFile <- function(destfile) {
+  checked <- FALSE
+  if(file.exists(destfile)){
+    checked <- TRUE
+  }
+  return(checked)
+}
+
+```
+
+<!--## Spatial references and topics - globally
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+plot(cars)
+```
+--->
+
+## Environmental Summary
+### Ebird observations in the reporting period
+```{r, results='hide', echo=FALSE, warning=FALSE, message=FALSE}
+# loads the PostgreSQL driver
+drv <- dbDriver("PostgreSQL")
+con <- dbConnect(drv, dbname = "whsc",host = "localhost", port = 5432, user = "postgres")
+#
+query <- "select locname, howmany, obsdt, comname, st_x(o.geom) x, st_y(o.geom) y from ebird o"
+df <- dbGetQuery(con, query)
+srptsCRS <- proj4string(readOGR('../data/basemap', "study-sites-pts2"))
+sr <- readOGR('../data/basemap', "study-sites")
+sr <- spTransform(sr, srptsCRS)
+coordinates(df) <- ~x + y
+proj4string(df) <- srptsCRS
+srBC <- sr[2,]
+if(region == "AB") {
+  srBC <- sr[1,]
+}
+
+inside.poly <- !is.na(over(df, as(srBC, "SpatialPolygons")))
+df <- df[inside.poly, ]
+
+df$obsdt2 <- as.Date(df$obsdt, "%Y-%m-%d %H:%M")
+df2 <- subset(df, obsdt2 >= dateStart & obsdt2 <= dateEnd)
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+if(nrow(df2) > 0) {
+  dfSum <- ddply(df2@data, "comname", summarise, Number = sum(howmany))
+  dfTab <- head(dfSum[order(dfSum$Number, decreasing = TRUE),], 50)
+  names(dfTab) <- c("Common Name", "Number Observed")
+  knitr::kable(dfTab)
+} else{
+  print("No ebird records during the reporting period")
+}
+#ggplot(df, aes(x=obsdt2, y=com)
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+if(nrow(df2) > 0) {
+  #plot(df2)
+  #plot(srBC, add=TRUE)
+  df3 <- spTransform(df2, CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"))
+  leaflet(df3@data) %>% addTiles() %>% addMarkers(coordinates(df3)[,1], coordinates(df3)[,2], popup = ~comname) 
+} else{
+  print("No ebird records during the reporting period")
+}
+```
+
+### Soil Moisture Weekly Anomaly Map
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+f <- paste("/Users/colinr23/Dropbox/citsci/wht/AI-Portal/AI-RPortal/data/soilmoisture/current_SM-BC-", weekNum, "-.tif", sep="")
+if(region == "AB"){
+  f <- paste("/Users/colinr23/Dropbox/citsci/wht/AI-Portal/AI-RPortal/data/soilmoisture/current_SM-AB-", weekNum, "-.tif", sep="")
+}
+if(checkFile(f)) {
+  
+  bc <- raster(f)
+  r <- projectRaster(bc, crs = "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
+  pal <- colorNumeric(c("#0C2C84", "#41B6C4", "#FFFFCC"), values(r),
+  na.color = "transparent")
+  leaflet() %>% addTiles() %>%
+  addRasterImage(r, colors = pal, opacity = 0.8) %>%
+  addLegend(pal = pal, values = values(r),
+    title = "Soil Moisure", labFormat = function(type = "numeric", cuts){ cuts <- sort(cuts, decreasing = T)})
+} else{
+  print("No Soil Moisture Map this week")
+  print(f)
+}
+
+```
+
+### Soil Moisture Anomaly Cumulative Anomaly Map
+```{r, echo=FALSE, warning=FALSE, message=FALSE, fig.height = 5, fig.width = 5}
+dirs <- list.dirs("../data/soilmoisture")
+tifInd <- grep("BC-[0-9][0-9]-.tif$", list.files("../data/soilmoisture"))
+if(region == "AB") {
+  tifInd <- grep("AB-[0-9][0-9]-.tif$", list.files("../data/soilmoisture"))
+}
+fname <- list.files("../data/soilmoisture")[tifInd[1]]
+rp <- paste("../data/soilmoisture", fname, sep="/")
+x1 <- raster(rp)
+  
+for(xi in 2:length(tifInd)) {
+  fname <- list.files("../data/soilmoisture")[tifInd[xi]]
+  rp <- paste("../data/soilmoisture", fname, sep="/")
+  x1 <- addLayer(x1, rp)
+}
+x1.mean <- mean(x1, na.rm=TRUE)
+r <- projectRaster(x1.mean, crs = "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
+  pal <- colorNumeric(c("#0C2C84", "#41B6C4", "#FFFFCC"), values(r),
+  na.color = "transparent")
+  leaflet() %>% addTiles() %>%
+  addRasterImage(r, colors = pal, opacity = 0.8) %>%
+  addLegend(pal = pal, values = values(r),
+    title = "Soil Moisure", labFormat = function(type = "numeric", cuts){ cuts <- sort(cuts, decreasing = T)})
+```
+
+### NDVI Map
+These are NDVI anomalies for this week. The AAFC NDVI Anomaly Maps comparee a given week’s NDVI value to a baseline value, which allows any outlier values to be visually compared to average values. High positive indicates greener than average vegetation conditions. 
+ 
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+f <- paste("/Users/colinr23/Dropbox/citsci/wht/AI-Portal/AI-RPortal/data/ndvi/current_SM-BC-", weekNum, "-.tif", sep="")
+if(region == "AB") {
+  f <- paste("/Users/colinr23/Dropbox/citsci/wht/AI-Portal/AI-RPortal/data/ndvi/current_SM-AB-", weekNum, "-.tif", sep="")
+}
+if(checkFile(f)) {
+  
+  bc <- raster(f)
+  r <- projectRaster(bc, crs = "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
+  pal <- colorNumeric(c("#2ECC71", "#41B6C4", "#E67E22"), values(r),
+  na.color = "transparent")
+  r[r < .05] <- NA
+  leaflet() %>% addTiles() %>%
+  addRasterImage(r, colors = pal, opacity = 0.8) %>%
+  addLegend(pal = pal, values = values(r),
+    title = "NDVI", labFormat = function(type = "numeric", cuts){ cuts <- sort(cuts, decreasing = T)})
+} else{
+  print("No NDVI Map this week")
+}
+
+
+```
+
+### Weather Time Series
+Observed weather data over the reporting period from a sample of weather stations in the region.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+df <- dbGetQuery(con, "SELECT * from wu_bc")
+if(region == "AB") {
+  df <- dbGetQuery(con, "SELECT * from wu_ab")
+}
+df$obsdt2 <- as.Date(df$subdate, "%Y-%m-%d")
+df2 <- subset(df, obsdt2 >= dateStart & obsdt2 <= dateEnd)
+if(nrow(df2) > 0) {
+  dfSum <- ddply(df2, "subdate", summarise, highs = median(temperaturehighc, na.rm=TRUE), lows = median(temperaturelowc, na.rm=TRUE), avg = median(temperatureavgc, na.rm=TRUE), dewpoint = median(dewpointavgc), humidity = median(humidityavg), precip = median(precipsumcm, na.rm = TRUE))
+  g <- ggplot(dfSum) + geom_line(aes(x = subdate, y = highs)) +  geom_line(aes(x = subdate, y = lows)) + geom_line(aes(x = subdate, y = avg)) + geom_point(aes(x = subdate, y = avg)) + labs(x = "Date", y = "Temperature (C) - lows, avg, highs")
+  g
+  
+} else{
+  print("No temperature records during the reporting period")
+}
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+if(nrow(df2) > 0) {
+  g <- ggplot(dfSum) + geom_line(aes(x = subdate, y = precip)) + geom_point(aes(x = subdate, y = precip)) + labs(x = "Date", y = "Precipitation (cm)")
+  g
+} else{
+  print("No precipitation records during the reporting period")
+}
+
+```
+
+### Weekly Poultry Slaughter
+These data represent recent counts of poultry slaughtered in Canada, obtained from AAFC
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+df <- dbGetQuery(con, "SELECT * from poultry")
+df2 <- subset(df, enddt_dtfin >= dateEnd-31)
+dfSum <- ddply(df2, c("enddt_dtfin", "mjrcmdtyen_prdtprncplan"), summarise, number = sum(numhd_nmbtetes, na.rm=TRUE), weight = sum(lvwt_pdsvif, na.rm=TRUE))
+options(scipen=10000)
+require(scales)
+g <- ggplot(dfSum) + geom_line(aes(x = enddt_dtfin, y = number, colour=mjrcmdtyen_prdtprncplan)) + labs(x = "Date", y = "# of Poultry Slaughtered") + scale_y_log10(labels=comma) + theme(legend.title=element_blank())
+  g
+```
+
+Here we see the historical trend up to this week since 1997;
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+  df2 <- ddply(df, c('enddt_dtfin', 'mjrcmdtyen_prdtprncplan'), summarise, numberTotal =  sum(numhd_nmbtetes, na.rm=TRUE))
+  g <- ggplot(df2) + geom_line(aes(x=enddt_dtfin, y=numberTotal, colour=mjrcmdtyen_prdtprncplan)) + labs(x = "Date", y = "# of Poultry Slaughtered") + scale_y_log10(labels=comma) + theme(legend.title=element_blank())
+  g
+```
+
+Here we see the reorting period only over the last 20 years
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+dy <- as.numeric(format(dateEnd-90, "%j"))
+dx <- as.numeric(format(dateEnd, "%j"))
+df3 <- subset(df2, as.numeric(format(enddt_dtfin, "%j")) <= dx & as.numeric(format(enddt_dtfin, "%j")) >= dy & mjrcmdtyen_prdtprncplan == "Chicken")
+df3$historical <- 1
+df3$historical[which(as.numeric(format(df3$enddt_dtfin, "%Y")) == 2017)] <- 0
+df3$newDate <- as.numeric(format(df3$enddt_dtfin, "%j"))
+df3$weekNum <- as.numeric(format(df3$enddt_dtfin, "%W"))
+df3.h <- subset(df3, historical == 1) #historical data
+df3.nh <- subset(df3, historical == 0)
+
+
+dfSum1 <- ddply(df3.h, 'weekNum', summarise, stderr =  sd(numberTotal, na.rm=TRUE) / sqrt(length(numberTotal)), Avgnumber = mean(numberTotal, na.rm=TRUE))
+dfSum <- ddply(dfSum1, c("weekNum"), summarise, lower = Avgnumber-(1.96*stderr) , upper = Avgnumber+(1.96*stderr), avg = Avgnumber)
+
+g <- ggplot(dfSum) + geom_errorbar(dfSum, mapping=aes(x=weekNum, ymin=lower, ymax=upper)) + geom_line(aes(x=weekNum, y=avg)) + scale_y_continuous(labels=comma) + geom_line(data=df3.nh, aes(x=weekNum, y=numberTotal, colour="This\n Year")) + scale_colour_manual(values="red") + theme(legend.title=element_blank()) + labs(x = "Week Number", y = "# of Poultry Slaughtered") 
+
+g
+  
+```

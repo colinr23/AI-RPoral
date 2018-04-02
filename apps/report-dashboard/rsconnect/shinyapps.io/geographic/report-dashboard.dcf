@@ -1,0 +1,10 @@
+name: report-dashboard
+account: geographic
+server: shinyapps.io
+appId: 302277
+bundleId: 1292180
+url: https://geographic.shinyapps.io/report-dashboard/
+when: 1522254069.74274
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/cleaned-ebird.csv

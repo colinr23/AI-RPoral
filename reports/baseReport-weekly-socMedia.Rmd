@@ -1,0 +1,145 @@
+---
+title: "Weekly Social Media Avian Influenza Intelligence Report"
+author: "WHIP - C. Robertson"
+date: "Reporting Week: `r format(Sys.Date()-7, '%d %B, %Y')` to `r format(Sys.Date(), '%d %B, %Y')`"
+output: html_document
+---
+
+This report outlinings social medida activity related to Avian Influenze for the reporting period.
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library("RPostgreSQL")
+library("ggplot2")
+library("plyr")
+library("stringr")
+
+
+dateStart <- Sys.Date()-7
+dateEnd <- Sys.Date()
+
+```
+
+
+## Social Media Summary
+### AI-related Tweets During the Reporting Period
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+# loads the PostgreSQL driver
+drv <- dbDriver("PostgreSQL")
+con <- dbConnect(drv, dbname = "whsc",host = "localhost", port = 5432, user = "postgres")
+#
+query <- "select tweetDate, tweettext, location from tweets"
+df <- dbGetQuery(con, query)
+df2 <- subset(df, tweetdate >= dateStart & tweetdate <= dateEnd)
+df3 <- ddply(df2, "tweetdate", summarise, Number = length(tweettext))
+ggplot(df3) + geom_line((aes(x = tweetdate, y = Number))) + theme_bw() + labs(x = "Date", y = "# of Tweets related to AI")
+
+
+```
+
+### AI-related Tweets During the Last Three Weeks
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+df2 <- subset(df, tweetdate >= dateStart-21 & tweetdate <= dateEnd)
+df3 <- ddply(df2, "tweetdate", summarise, Number = length(tweettext))
+ggplot(df3) + geom_line((aes(x = tweetdate, y = Number))) + theme_bw() + labs(x = "Date", y = "# of Tweets related to AI")
+
+```
+
+### Content Analysis for Tweets from the past week
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library("NLP")
+library("tm")
+library("RColorBrewer")
+library("wordcloud")
+library("topicmodels")
+library("SnowballC")
+library("Rmpfr")
+library("tidyverse")
+library("tidytext")
+library("reshape2")
+
+df2 <- subset(df, tweetdate >= dateStart & tweetdate <= dateEnd)
+tweets <- df2$tweettext #xA1$text
+
+# Here we pre-process the data in some standard ways. I'll post-define each step
+tweets <- iconv(tweets, to = "ASCII", sub = " ")  # Convert to basic ASCII text to avoid silly characters
+tweets <- tolower(tweets)  # Make everything consistently lower case
+tweets <- gsub("rt", " ", tweets)  # Remove the "RT" (retweet) so duplicates are duplicates
+tweets <- gsub("@\\w+", " ", tweets)  # Remove user names (all proper names if you're wise!)
+tweets <- gsub("http.+ |http.+$", " ", tweets)  # Remove links
+tweets <- gsub("[[:punct:]]", " ", tweets)  # Remove punctuation
+tweets <- gsub("[ |\t]{2,}", " ", tweets)  # Remove tabs
+tweets <- gsub("amp", " ", tweets)  # "&" is "&amp" in HTML, so after punctuation removed ...
+tweets <- gsub("^ ", "", tweets)  # Leading blanks
+tweets <- gsub(" $", "", tweets)  # Lagging blanks
+tweets <- gsub(" +", " ", tweets) # General spaces (should just do all whitespaces no?)
+tweets <- unique(tweets)  # Now get rid of duplicates!
+
+
+# Convert to tm corpus and use its API for some additional fun
+corpus <- Corpus(VectorSource(tweets))  # Create corpus object
+# Remove English stop words. This could be greatly expanded! # Don't forget the mc.cores thing
+corpus <- tm_map(corpus, removeWords, stopwords("en"))  
+# Remove numbers. This could have been done earlier, of course.
+corpus <- tm_map(corpus, removeNumbers)
+# Stem the words. Google if you don't understand
+corpus <- tm_map(corpus, stemDocument)
+# Remove the stems associated with our search terms!
+corpus <- tm_map(corpus, removeWords, c("bird", "flu", "avian", "influenza", "poultry"))
+
+pal <- brewer.pal(8, "Dark2")
+wordcloud(corpus, min.freq=2, max.words = 150, random.order = TRUE, col = pal)
+```
+
+
+###Predicted Topics
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+# Get the lengths and make sure we only create a DTM for tweets with
+# some actual content
+doc.lengths <- rowSums(as.matrix(DocumentTermMatrix(corpus)))
+dtm <- DocumentTermMatrix(corpus[doc.lengths > 0])
+SEED = sample(1:1000000, 1)  # Pick a random seed for replication
+
+harmonicMean <- function(logLikelihoods, precision=2000L) {
+  llMed <- median(logLikelihoods)
+  as.double(llMed - log(mean(exp(-mpfr(logLikelihoods,
+                                       prec = precision) + llMed))))
+}
+k = 5 #31
+burnin = 1000
+iter = 1000
+keep = 50
+maxK = 10 #k is 31 for AI1, and 15 for AI2 (i think for 2)
+
+# generate numerous topic models with different numbers of topics
+sequ <- seq(2, maxK, 1) # in this case a sequence of numbers from 1 to 50, by ones.
+fitted_many <- lapply(sequ, function(k) LDA(dtm, k = k, method = "Gibbs",control = list(burnin = burnin, iter = iter, keep = keep) ))
+# extract logliks from each topic
+logLiks_many <- lapply(fitted_many, function(L)  L@logLiks[-c(1:(burnin/keep))])
+# compute harmonic means
+hm_many <- sapply(logLiks_many, function(h) harmonicMean(h))
+# compute optimum number of topics
+sequ[which.max(hm_many)]
+##
+k = sequ[which.max(hm_many)]
+Gibbs     = LDA(dtm, k = k, method = "Gibbs", control = list(seed = SEED, burnin = 1000, thin = 100,    iter = 1000))
+dfTab <- data.frame(terms(Gibbs, 10))
+knitr::kable(dfTab)
+
+
+ap_topics <- tidy(Gibbs, matrix = "beta")
+ap_top_terms <- ap_topics %>%  group_by(topic) %>% top_n(200, beta) %>% ungroup() %>% arrange(topic, -beta)
+
+ap_top_terms %>%
+  mutate(topic = paste("topic", topic)) %>%
+  acast(term ~ topic, value.var = "beta", fill = 0) %>%
+  comparison.cloud(max.words = 100, title.size = 0.8)
+```
+
+### Google Searces for Avian Inluezna over the Past Week
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(gtrendsR)  
+res <- gtrends("Avian influenza", geo = c("CA", "US"), time = "now 7-d")
+plot(res)
+
+```

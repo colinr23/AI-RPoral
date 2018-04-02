@@ -1,0 +1,537 @@
+"","Specimen.Code","Common.Name","Latin.Name","City","Province","Country","Latitude","Longitude","Matrix.PCR.Result","Matrix.PCR.Result.Date","PCRResultDate","week","weekNum"
+"2","CWHC.136185.1","Ring-Billed Gull","Larus delawarensis","Wetaskiwin","Alberta","Canada",52.9695,-113.3772,"Negative ","2017-08-17",2017-08-17,4,2
+"3","CWHC.136472.1","Bald Eagle","Haliaeetus leucocephalus","Barrhead","Alberta","Canada",54.1673,-114.5269,"Negative ","2017-09-19",2017-09-19,2,7
+"5","CWHC.135779.1","Merlin","Falco columbarius","Saskatoon","Saskatchewan","Canada",52.1473939,-106.5910967,"Negative ","2017-08-31",2017-08-31,4,4
+"6","CWHC.136077.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-10-11",2017-10-11,3,10
+"7","CWHC.136088.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"8","CWHC.136650.1","Mallard","Anas platyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"9","CWHC.136844.1","Canada Goose","Branta canadensis","Neuville","Québec","Canada",46.69777778,-71.6075,"Negative ","2017-11-02",2017-11-02,4,13
+"10","CWHC.135716.2","Pine Siskin","Carduelis pinus","Sainte-Brigitte-de-Laval","Québec","Canada",47.002378,-71.1942119,"Negative ","2017-08-10",2017-08-10,4,1
+"11","CWHC.137322.1","Ring-Billed Gull","Larus delawarensis","Longueuil","Québec","Canada",45.54363,-73.4715403,"Negative ","2017-11-28",2017-11-28,2,17
+"12","CWHC.136914.1","Common Loon","Gavia immer","Chester Basin","Nova Scotia","Canada",44.6265,-64.30557,"Negative ","2018-01-11",2018-01-11,4,23
+"13","CWHC.135695.1","American Kestrel","Falco sparverius","La Motte","Québec","Canada",48.33333333,-78.11666667,"Negative ","2017-08-15",2017-08-15,2,2
+"14","CWHC.135784.1","American Crow","Corvus brachyrhynchos","Saskatoon","Saskatchewan","Canada",52.1741547,-106.61317,"Negative ","2017-08-31",2017-08-31,4,4
+"15","CWHC.136265.1","Canada Goose","Branta canadensis","Toronto","Ontario","Canada",43.753005,-79.360058,"Negative ","2017-08-31",2017-08-31,4,4
+"16","CWHC.136998.4","Long-Tailed Duck","Clangula hyemalis","Toronto","Ontario","Canada",43.662648,-79.3100073,"Negative ","2017-11-14",2017-11-14,2,15
+"17","CWHC.136422.1","American Robin","Turdus migratorius","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"18","CWHC.136468.1","Great Gray Owl","Strix nebulosa","Barrhead","Alberta","Canada",54.1231,-114.4017,"Negative ","2017-09-19",2017-09-19,2,7
+"19","CWHC.136188.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"21","CWHC.135904.1","Great Black-Backed Gull","Larus marinus","Covehead","Prince Edward Island","Canada",46.42429101,-63.15998213,"Negative ","2017-09-28",2017-09-28,4,8
+"23","CWHC.136456.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"24","CWHC.136400.1","Ruffed Grouse","Bonasa umbellus","Miltonvale Park","Prince Edward Island","Canada",46.32377,-63.19235,"Negative ","2017-10-31",2017-10-31,2,13
+"25","CWHC.136656.1","Boreal Owl","Aegolius funereus","Cadomin","Alberta","Canada",53.0325,-117.3265,"Negative ","2017-10-05",2017-10-05,4,9
+"26","CWHC.136998.1","Long-Tailed Duck","Clangula hyemalis","Toronto","Ontario","Canada",43.662648,-79.3100073,"Negative ","2017-11-14",2017-11-14,2,15
+"27","CWHC.136068.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"28","CWHC.135870.1","American Crow","Corvus brachyrhynchos","Saskatoon","Saskatchewan","Canada",52.09619,-106.609097,"Negative ","2017-08-21",2017-08-21,1,3
+"29","CWHC.136004.5","Herring Gull","Larus argentatus","Lac-Etchemin","Québec","Canada",46.39555556,-70.50833333,"Suspicious ","2017-08-30",2017-08-30,3,4
+"30","CWHC.138429.1","Snowy Owl","Bubo scandiacus","Crediton","Ontario","Canada",43.295894,-81.59826,"Negative ","2018-01-15",2018-01-15,1,24
+"31","CWHC.135729.1","Red-Tailed Hawk","Buteo jamaicensis","Saskatoon","Saskatchewan","Canada",52.148613,-106.5905669,"Negative ","2017-08-18",2017-08-18,5,2
+"32","CWHC.135686.1","Ring-Billed Gull","Larus delawarensis","Waskesiu Lake","Saskatchewan","Canada",53.9231821,-106.0818084,"Negative ","2017-08-18",2017-08-18,5,2
+"33","CWHC.137449.1","Common Loon","Gavia immer","Saguenay-Lac-Saint-Jean","Québec","Canada",48.34361111,-70.87444444,"Negative ","2017-11-30",2017-11-30,4,17
+"34","CWHC.136449.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"35","CWHC.136539.1","Rock Pigeon","Columba livia","","Newfoundland And Labrador","Canada",0,0,"Negative ","2018-01-10",2018-01-10,3,23
+"36","CWHC.136748.3","American Wigeon","Anas americana","Sackville","New Brunswick","Canada",45.9086,-64.3006,"Negative ","2018-01-11",2018-01-11,4,23
+"37","CWHC.136770.1","Swainson's Thrush","Catharus ustulatus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-19",2017-10-19,4,11
+"38","CWHC.138140.1","Double-Crested Cormorant","Phalacrocorax auritus","Burlington","Ontario","Canada",43.32142,-79.798897,"Negative ","2017-11-28",2017-11-28,2,17
+"39","CWHC.135940.1","American Crow","Corvus brachyrhynchos","Minesing","Ontario","Canada",44.448273,-79.760589,"Negative ","2017-08-23",2017-08-23,3,3
+"40","CWHC.136538.1","Rock Pigeon","Columba livia","Charlottetown","Prince Edward Island","Canada",46.23283,-63.1293,"Negative ","2018-01-10",2018-01-10,3,23
+"41","CWHC.135671.1","Canada Goose","Branta canadensis","Sainte-Béatrix","Québec","Canada",46.167275,-73.62367778,"Negative ","2017-08-10",2017-08-10,4,1
+"42","CWHC.137680.5","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2017-11-23",2017-11-23,4,16
+"43","CWHC.136458.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"44","CWHC.136329.1","Ross's Goose","Chen rossii","Saskatoon","Saskatchewan","Canada",52.1401751,-106.7058091,"Negative ","2017-11-09",2017-11-09,4,14
+"45","CWHC.136444.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"46","CWHC.136664.1","Red-Tailed Hawk","Buteo jamaicensis","Nanton","Alberta","Canada",50.3128,-113.926,"Negative ","2017-10-13",2017-10-13,5,10
+"47","CWHC.136296.3","Mallard","Anas platyrhynchos","Peterborough","Ontario","Canada",44.331715,-78.331127,"Negative ","2017-09-22",2017-09-22,5,7
+"48","CWHC.138355.1","Rough-Legged Hawk","Buteo lagopus","Cambridge Bay","Nunavut","Canada",69.07,-104.58,"Negative ","2018-01-15",2018-01-15,1,24
+"49","CWHC.138581.4","Green-Winged Teal","Anas carolinensis","Bellevue","Alberta","Canada",49.5829,-114.3643,"Positive ","2018-01-17",2018-01-17,3,24
+"50","CWHC.136370.1","Least Sandpiper","Calidris minutilla","Mount Stewart","Prince Edward Island","Canada",46.36431,-62.86478,"Negative ","2017-10-31",2017-10-31,2,13
+"51","CWHC.136749.1","Mallard","Anas platyrhynchos","Bathurst","New Brunswick","Canada",47.6206,-65.64,"Negative ","2018-01-11",2018-01-11,4,23
+"52","CWHC.136177.1","Double-Crested Cormorant","Phalacrocorax auritus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"53","CWHC.136414.1","Great Blue Heron","Ardea herodias","Hinchinbrooke","Québec","Canada",45.04194444,-74.10305556,"Negative ","2017-10-03",2017-10-03,2,9
+"54","CWHC.136763.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-19",2017-10-19,4,11
+"55","CWHC.136648.1","Lesser Scaup","Aythya affinis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"56","CWHC.136439.1","Ring-Billed Gull","Larus delawarensis","St. Albert","Alberta","Canada",53.6305,-113.6256,"Negative ","2017-09-14",2017-09-14,4,6
+"57","CWHC.135660.1","Great Horned Owl","Bubo virginianus","Kenaston","Saskatchewan","Canada",51.5006133,-106.2706236,"Negative ","2017-08-18",2017-08-18,5,2
+"58","CWHC.136356.1","American White Pelican","Pelecanus erythrorhynchos","Martensville","Saskatchewan","Canada",52.2603525,-106.6706617,"Negative ","2017-11-09",2017-11-09,4,14
+"59","CWHC.136453.1","American Crow","Corvus brachyrhynchos","Leduc","Alberta","Canada",53.258,-113.5502,"Negative ","2017-09-14",2017-09-14,4,6
+"60","CWHC.138155.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"61","CWHC.136471.1","Northern goshawk","Accipiter gentilis","Spruce Grove","Alberta","Canada",53.5428,-113.9034,"Negative ","2017-09-19",2017-09-19,2,7
+"62","CWHC.136426.1","American Robin","Turdus migratorius","Stony Plain","Alberta","Canada",53.5279,-114.0019,"Negative ","2017-09-14",2017-09-14,4,6
+"64","CWHC.136546.1","Rock Pigeon","Columba livia","Summerside","Prince Edward Island","Canada",46.39167,-63.79094,"Negative ","2017-10-31",2017-10-31,2,13
+"65","CWHC.136195.1","Canada Goose","Branta canadensis","Sherwood Park","Alberta","Canada",53.5412,-113.2957,"Negative ","2017-08-17",2017-08-17,4,2
+"67","CWHC.138801.1","Snow Goose","Chen caerulescens","Notre-Dame-du-Bon-Conseil","Québec","Canada",45.98777778,-72.30583333,"Negative ","2018-01-23",2018-01-23,2,25
+"68","CWHC.136445.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"69","CWHC.136641.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"71","CWHC.135759.1","Pileated Woodpecker","Dryocopus pileatus","Oakfield","Nova Scotia","Canada",44.89656,-63.58184,"Negative ","2018-01-10",2018-01-10,3,23
+"72","CWHC.136726.1","Herring Gull","Larus argentatus","Oyster Bed Bridge","Prince Edward Island","Canada",46.3883965,-63.2369849,"Negative ","2017-10-31",2017-10-31,2,13
+"73","CWHC.136435.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"74","CWHC.136765.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-19",2017-10-19,4,11
+"76","CWHC.136269.1","Canada Goose","Branta canadensis","Toronto","Ontario","Canada",43.73989,-79.421563,"Negative ","2017-08-31",2017-08-31,4,4
+"77","CWHC.136646.1","California Gull","Larus californicus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"78","CWHC.136275.1","Great Horned Owl","Bubo virginianus","Brooks","Alberta","Canada",50.566,-111.8992,"Negative ","2017-09-19",2017-09-19,2,7
+"79","CWHC.138175.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"80","CWHC.135644.1","California Gull","Larus californicus","Saskatoon","Saskatchewan","Canada",52.2021042,-106.6785858,"Negative ","2017-08-18",2017-08-18,5,2
+"82","CWHC.137680.2","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2017-11-23",2017-11-23,4,16
+"83","CWHC.136178.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"84","CWHC.135716.1","Pine Siskin","Carduelis pinus","Sainte-Brigitte-de-Laval","Québec","Canada",47.002378,-71.1942119,"Negative ","2017-08-10",2017-08-10,4,1
+"85","CWHC.135698.1","Double-Crested Cormorant","Phalacrocorax auritus","Kingston","Ontario","Canada",44.269847,-76.570382,"Negative ","2017-08-09",2017-08-09,3,1
+"86","CWHC.136409.1","Swainson's Hawk","Buteo swainsoni","Calgary","Alberta","Canada",51.0094,-114.1641,"Negative ","2017-10-13",2017-10-13,5,10
+"87","CWHC.136915.1","Broad-Winged Hawk","Buteo platypterus","Bocabec","New Brunswick","Canada",45.17066,-67.0012405,"Negative ","2018-01-11",2018-01-11,4,23
+"88","CWHC.136626.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"89","CWHC.136476.1","Canada Goose","Branta canadensis","Victoriaville","Québec","Canada",46.07972222,-71.92611111,"Negative ","2017-10-05",2017-10-05,4,9
+"90","CWHC.138142.1","Least Flycatcher","Empidonax minimus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"91","CWHC.136187.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Positive ","2017-08-17",2017-08-17,4,2
+"92","CWHC.138165.1","Mallard","Anas platyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"93","CWHC.135943.1","Blue Jay","Cyanocitta cristata","Saskatoon","Saskatchewan","Canada",52.1094892,-106.6367511,"Negative ","2017-08-31",2017-08-31,4,4
+"94","CWHC.137456.1","White-Rumped Sandpiper","Calidris fuscicollis","Encana Offshore Platform","Nova Scotia","Canada",43.81269,-60.68837,"Negative ","2018-01-11",2018-01-11,4,23
+"95","CWHC.136180.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"96","CWHC.136448.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"97","CWHC.138146.1","White-Winged Crossbill","Loxia leucoptera","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"98","CWHC.136066.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Positive ","2017-09-07",2017-09-07,4,5
+"99","CWHC.136086.1","Mallard","Anas platyrhynchos","","Saskatchewan","Canada",51.701373,-106.51696,"Suspicious ","2017-09-07",2017-09-07,4,5
+"100","CWHC.136165.1","Pine Siskin","Carduelis pinus","Stony Plain","Alberta","Canada",53.5279,-114.0019,"Negative ","2017-08-17",2017-08-17,4,2
+"102","CWHC.136334.1","Ring-Billed Gull","Larus delawarensis","Saskatoon","Saskatchewan","Canada",52.0870713,-106.6499746,"Negative ","2017-11-09",2017-11-09,4,14
+"103","CWHC.136028.1","Double-Crested Cormorant","Phalacrocorax auritus","Prince Edward","Ontario","Canada",44.03209,-77.57061,"Negative ","2017-08-30",2017-08-30,3,4
+"104","CWHC.136164.1","House Sparrow","Passer domesticus","Edmonton","Alberta","Canada",53.5225,-113.6242,"Negative ","2017-08-17",2017-08-17,4,2
+"105","CWHC.136100.1","Ring-Billed Gull","Larus delawarensis","Lanoraie","Québec","Canada",45.96291944,-73.216625,"Negative ","2017-09-08",2017-09-08,5,5
+"106","CWHC.138577.2","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2018-01-16",2018-01-16,2,24
+"107","CWHC.138181.1","Great Horned Owl","Bubo virginianus","Sherwood Park","Alberta","Canada",53.5412,-113.2957,"Negative ","2017-12-12",2017-12-12,2,19
+"108","CWHC.135903.1","Ring-Billed Gull","Larus delawarensis","Charlottetown","Prince Edward Island","Canada",46.2726,-63.14798,"Negative ","2017-09-28",2017-09-28,4,8
+"109","CWHC.137727.1","Snow Goose","Chen caerulescens","Saint-Rémi","Québec","Canada",45.2575,-73.61444444,"Negative ","2017-12-08",2017-12-08,5,18
+"111","CWHC.136174.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"112","CWHC.136074.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-10-11",2017-10-11,3,10
+"113","CWHC.136633.1","Black-billed Magpie","Pica hudsonia","Spruce Grove","Alberta","Canada",53.5428,-113.9034,"Negative ","2017-10-05",2017-10-05,4,9
+"114","CWHC.136632.1","Black-billed Magpie","Pica hudsonia","Spruce Grove","Alberta","Canada",53.5428,-113.9034,"Negative ","2017-10-05",2017-10-05,4,9
+"115","CWHC.136004.6","Herring Gull","Larus argentatus","Lac-Etchemin","Québec","Canada",46.39555556,-70.50833333,"Negative ","2017-08-30",2017-08-30,3,4
+"116","CWHC.138581.2","Mallard","Anas platyrhynchos","Bellevue","Alberta","Canada",49.5829,-114.3643,"Negative ","2018-01-17",2018-01-17,3,24
+"117","CWHC.136169.1","Blue Jay","Cyanocitta cristata","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"119","CWHC.137642.1","Canada Goose","Branta canadensis","Farnham","Québec","Canada",45.28305556,-72.97472222,"Negative ","2017-12-05",2017-12-05,2,18
+"120","CWHC.136658.1","Swainson's Hawk","Buteo swainsoni","","Alberta","Canada",53.5487,-113.7626,"Negative ","2017-10-05",2017-10-05,4,9
+"122","CWHC.135941.1","American Crow","Corvus brachyrhynchos","Midhurst","Ontario","Canada",44.4467,-79.7288,"Negative ","2017-08-23",2017-08-23,3,3
+"123","CWHC.135774.2","Double-Crested Cormorant","Phalacrocorax auritus","Sauble Beach","Ontario","Canada",44.618752,-81.267132,"Negative ","2017-08-16",2017-08-16,3,2
+"124","CWHC.135651.1","Merlin","Falco columbarius","Kamsack","Saskatchewan","Canada",51.5648837,-101.8984151,"Negative ","2017-08-18",2017-08-18,5,2
+"125","CWHC.136046.1","Red-Tailed Hawk","Buteo jamaicensis","Toronto","Ontario","Canada",43.7140257,-79.4546234,"Negative ","2017-08-22",2017-08-22,2,3
+"126","CWHC.135639.1","Red-Tailed Hawk","Buteo jamaicensis","Zelma","Saskatchewan","Canada",51.842308,-105.9119361,"Negative ","2017-08-18",2017-08-18,5,2
+"127","CWHC.138909.1","Trumpeter Swan","Cygnus buccinator","Stayner","Ontario","Canada",44.4321,-80.0867,"Negative ","2018-01-31",2018-01-31,3,26
+"128","CWHC.136745.1","American Black Duck","Anas rubripes","Upper Sackville","New Brunswick","Canada",45.97198,-64.334095,"Negative ","2018-01-11",2018-01-11,4,23
+"129","CWHC.136268.1","Barred Owl","Strix varia","Fernwood","Prince Edward Island","Canada",46.3282809,-63.783561,"Negative ","2017-09-28",2017-09-28,4,8
+"130","CWHC.135947.1","Merlin","Falco columbarius","Saskatoon","Saskatchewan","Canada",52.1332144,-106.6700458,"Negative ","2017-08-31",2017-08-31,4,4
+"131","CWHC.136412.1","Mallard","Anas platyrhynchos","Hudson","Québec","Canada",45.468429,-74.160436,"Negative ","2017-10-03",2017-10-03,2,9
+"132","CWHC.136643.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"133","CWHC.137680.3","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2017-11-23",2017-11-23,4,16
+"134","CWHC.135882.1","Double-Crested Cormorant","Phalacrocorax auritus","Tobermory","Ontario","Canada",45.249671,-81.640491,"Negative ","2017-08-17",2017-08-17,4,2
+"135","CWHC.137605.1","Grey Jay","Perisoreus canadensis","","","",45.568462,-78.712981,"Negative ","2017-12-18",2017-12-18,1,20
+"137","CWHC.136922.1","Bald Eagle","Haliaeetus leucocephalus","New Glasgow","Nova Scotia","Canada",45.58717,-62.64512,"Negative ","2018-01-11",2018-01-11,4,23
+"140","CWHC.136653.1","American Coot","Fulica americana","Sherwood Park","Alberta","Canada",53.5412,-113.2957,"Negative ","2017-10-05",2017-10-05,4,9
+"141","CWHC.138396.1","Greater White-Fronted Goose","Anser albifrons","Amos","Québec","Canada",48.569811,-78.121372,"Negative ","2018-01-16",2018-01-16,2,24
+"142","CWHC.135885.1","Double-Crested Cormorant","Phalacrocorax auritus","Saskatoon","Saskatchewan","Canada",52.143532,-106.6429494,"Negative ","2017-08-31",2017-08-31,4,4
+"143","CWHC.136189.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"144","CWHC.136427.1","American Robin","Turdus migratorius","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"145","CWHC.137217.1","Trumpeter Swan","Cygnus buccinator","Pickering","Ontario","Canada",43.815293,-79.086549,"Negative ","2017-11-21",2017-11-21,2,16
+"147","CWHC.136461.1","American Coot","Fulica americana","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"148","CWHC.136053.2","American Crow","Corvus brachyrhynchos","Strathroy","Ontario","Canada",42.9754343,-81.6320135,"Negative ","2018-01-08",2018-01-08,1,23
+"149","CWHC.136768.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.554,-113.5373,"Negative ","2017-10-19",2017-10-19,4,11
+"150","CWHC.136168.1","Sora","Porzana carolina","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"151","CWHC.138154.1","American Crow","Corvus brachyrhynchos","Beaumont","Alberta","Canada",53.3524,-113.4154,"Negative ","2017-12-12",2017-12-12,2,19
+"152","CWHC.136064.1","Double-Crested Cormorant","Phalacrocorax auritus","Saint-Hyacinthe","Québec","Canada",45.60722222,-73.01305556,"Negative ","2017-09-08",2017-09-08,5,5
+"153","CWHC.135684.1","American White Pelican","Pelecanus erythrorhynchos","Lavallee Lake","Saskatchewan","Canada",54.2833333,-106.55,"Negative ","2017-08-18",2017-08-18,5,2
+"154","CWHC.136198.1","Swainson's Hawk","Buteo swainsoni","High River","Alberta","Canada",50.5801,-113.8707,"Negative ","2017-08-17",2017-08-17,4,2
+"155","CWHC.138177.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"156","CWHC.136751.1","American Black Duck","Anas rubripes","River Hebert","Nova Scotia","Canada",45.6979,-64.3739,"Negative ","2018-01-11",2018-01-11,4,23
+"157","CWHC.137680.4","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2017-11-23",2017-11-23,4,16
+"158","CWHC.138577.5","Herring Gull","Larus argentatus","Ottawa","Ontario","Canada",45.393302,-75.701534,"Positive ","2018-01-16",2018-01-16,2,24
+"159","CWHC.138577.3","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2018-01-16",2018-01-16,2,24
+"160","CWHC.138959.1","Wild Turkey","Meleagris gallopavo","Wellandport","Ontario","Canada",43.072267,-79.576229,"Negative ","2018-01-22",2018-01-22,1,25
+"161","CWHC.138178.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"162","CWHC.136012.1","Ring-Billed Gull","Larus delawarensis","Québec","Québec","Canada",46.75027778,-71.31388889,"Negative ","2017-09-01",2017-09-01,5,4
+"163","CWHC.136080.1","Green-Winged Teal","Anas carolinensis","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"165","CWHC.136408.1","Swainson's Hawk","Buteo swainsoni","Madden","Alberta","Canada",51.3879,-114.2802,"Negative ","2017-10-13",2017-10-13,5,10
+"166","CWHC.136639.1","Northern Flicker","Colaptes auratus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"167","CWHC.136455.1","American Crow","Corvus brachyrhynchos","Sherwood Park","Alberta","Canada",53.5412,-113.2957,"Negative ","2017-09-14",2017-09-14,4,6
+"168","CWHC.138152.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"169","CWHC.136470.1","Red-Tailed Hawk","Buteo jamaicensis","","Alberta","Canada",53.8373,-113.4121,"Negative ","2017-09-19",2017-09-19,2,7
+"170","CWHC.135759.2","Pileated Woodpecker","Dryocopus pileatus","Oakfield","Nova Scotia","Canada",44.89656,-63.58184,"Negative ","2018-01-10",2018-01-10,3,23
+"171","CWHC.136651.1","Redhead","Aythya americana","St. Albert","Alberta","Canada",53.6305,-113.6256,"Negative ","2017-10-05",2017-10-05,4,9
+"172","CWHC.136342.1","Cape May Warbler","Dendroica tigrina","Saint-Hugues","Québec","Canada",45.79361111,-72.85972222,"Negative ","2017-09-26",2017-09-26,2,8
+"173","CWHC.136259.1","Canada Goose","Branta canadensis","Saint-Denis-sur-Richelieu","Québec","Canada",0,0,"Negative ","2017-09-19",2017-09-19,2,7
+"174","CWHC.136627.1","American Crow","Corvus brachyrhynchos","Leduc","Alberta","Canada",53.258,-113.5502,"Negative ","2017-10-05",2017-10-05,4,9
+"175","CWHC.135824.1","Red-Tailed Hawk","Buteo jamaicensis","Elbow","Saskatchewan","Canada",51.1203148,-106.5969026,"Negative ","2017-08-31",2017-08-31,4,4
+"177","CWHC.136623.1","Ring-Billed Gull","Larus delawarensis","Red Deer","Alberta","Canada",52.2681,-113.8112,"Negative ","2017-10-03",2017-10-03,2,9
+"178","CWHC.136750.1","American Black Duck","Anas rubripes","New Horton","New Brunswick","Canada",45.6907,-64.7026,"Negative ","2018-01-11",2018-01-11,4,23
+"179","CWHC.136004.7","Ring-Billed Gull","Larus delawarensis","Lac-Etchemin","Québec","Canada",46.39555556,-70.50833333,"Suspicious ","2017-08-30",2017-08-30,3,4
+"180","CWHC.136443.1","Herring Gull","Larus argentatus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"181","CWHC.135973.1","Common Loon","Gavia immer","Sainte-Véronique","Québec","Canada",46.50766667,-74.95188889,"Negative ","2017-09-01",2017-09-01,5,4
+"182","CWHC.136341.1","Purple Finch","Carpodacus purpureus","Sherbrooke","Québec","Canada",45.36935,-71.88788,"Negative ","2017-09-26",2017-09-26,2,8
+"183","CWHC.135996.1","Blue Jay","Cyanocitta cristata","Cornwall","Prince Edward Island","Canada",46.25415,-63.19199,"Negative ","2017-09-28",2017-09-28,4,8
+"184","CWHC.136297.1","Black Guillemot","Cepphus grylle","East Bay Island","Nunavut","Canada",64.029722,-81.787972,"Negative ","2017-09-21",2017-09-21,4,7
+"185","CWHC.136296.1","Mallard","Anas platyrhynchos","Peterborough","Ontario","Canada",44.331715,-78.331127,"Negative ","2017-09-22",2017-09-22,5,7
+"186","CWHC.136666.1","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.302899,-75.775443,"Negative ","2017-10-20",2017-10-20,5,11
+"187","CWHC.135966.1","Canada Goose","Branta canadensis","Toronto","Ontario","Canada",43.650136,-79.499095,"Negative ","2017-08-24",2017-08-24,4,3
+"188","CWHC.136738.1","Trumpeter Swan","Cygnus buccinator","Aurora","Ontario","Canada",43.976,-79.4903,"Unknown ","2018-01-18",2018-01-18,4,24
+"189","CWHC.136762.1","Rock Pigeon","Columba livia","","Alberta","Canada",53.4176,-113.5666,"Negative ","2017-10-19",2017-10-19,4,11
+"190","CWHC.136666.2","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.302899,-75.775443,"Negative ","2017-10-20",2017-10-20,5,11
+"193","CWHC.136645.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"194","CWHC.137129.1","Common Raven","Corvus corax","Fredericton","New Brunswick","Canada",45.9380943,-66.7049573,"Negative ","2018-01-10",2018-01-10,3,23
+"195","CWHC.138180.1","Great Horned Owl","Bubo virginianus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"197","CWHC.136234.1","Rock Pigeon","Columba livia","","Prince Edward Island","Canada",46.2338,-63.13426,"Negative ","2017-09-28",2017-09-28,4,8
+"198","CWHC.135733.1","American Crow","Corvus brachyrhynchos","Saskatoon","Saskatchewan","Canada",52.1332144,-106.6700458,"Negative ","2017-08-18",2017-08-18,5,2
+"199","CWHC.136545.1","Canada Goose","Branta canadensis","Summerside","Prince Edward Island","Canada",46.4019,-63.79712,"Negative ","2017-10-31",2017-10-31,2,13
+"200","CWHC.136270.1","Common Loon","Gavia immer","Kejimkujik National Park","Nova Scotia","Canada",44.38399462,-65.20718747,"Negative ","2017-10-31",2017-10-31,2,13
+"201","CWHC.136184.1","Ring-Billed Gull","Larus delawarensis","St. Albert","Alberta","Canada",53.6305,-113.6256,"Negative ","2017-08-17",2017-08-17,4,2
+"202","CWHC.136042.1","Cooper's Hawk","Accipiter cooperii","Mississauga","Ontario","Canada",43.5643907,-79.749358,"Negative ","2017-08-22",2017-08-22,2,3
+"204","CWHC.135782.1","Red-Tailed Hawk","Buteo jamaicensis","","Saskatchewan","Canada",51.760763,-105.564523,"Negative ","2017-08-31",2017-08-31,4,4
+"206","CWHC.138153.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"207","CWHC.136744.1","Mallard","Anas platyrhynchos","Jolicure","New Brunswick","Canada",45.935,-64.2572,"Negative ","2018-01-11",2018-01-11,4,23
+"208","CWHC.136412.3","Mallard","Anas platyrhynchos","Hudson","Québec","Canada",45.468429,-74.160436,"Negative ","2017-10-05",2017-10-05,4,9
+"210","CWHC.136028.4","Double-Crested Cormorant","Phalacrocorax auritus","Prince Edward","Ontario","Canada",44.03209,-77.57061,"","2017-09-06",2017-09-06,3,5
+"211","CWHC.136097.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"212","CWHC.136067.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"214","CWHC.136475.2","American Coot","Fulica americana","Nanton","Alberta","Canada",50.3137,-113.9228,"Negative ","2017-10-13",2017-10-13,5,10
+"216","CWHC.136809.1","Wild Turkey","Meleagris gallopavo","Combermere","Ontario","Canada",45.33794667,-77.61310991,"Negative ","2017-10-30",2017-10-30,1,13
+"217","CWHC.135641.1","Merlin","Falco columbarius","Saskatoon","Saskatchewan","Canada",52.1427789,-106.6955503,"Negative ","2017-08-18",2017-08-18,5,2
+"218","CWHC.135738.1","Mallard","Anas platyrhynchos","Saint-Mathieu-de-Beloeil","Québec","Canada",45.58094444,-73.26491667,"Negative ","2017-08-15",2017-08-15,2,2
+"219","CWHC.135977.1","Mallard","Anas platyrhynchos","Saint-André","Québec","Canada",47.70519444,-69.69547222,"Suspicious ","2017-08-30",2017-08-30,3,4
+"220","CWHC.136093.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"221","CWHC.137845.1","Ruffed Grouse","Bonasa umbellus","Johnstons River","Prince Edward Island","Canada",46.25913,-62.99864,"Negative ","2018-01-10",2018-01-10,3,23
+"222","CWHC.138255.1","Cooper's Hawk","Accipiter cooperii","Guelph","Ontario","Canada",43.5506917,-80.1891212,"Negative ","2018-01-08",2018-01-08,1,23
+"223","CWHC.136708.1","Bald Eagle","Haliaeetus leucocephalus","Miscouche","Prince Edward Island","Canada",46.45304,-63.95257,"Negative ","2017-10-31",2017-10-31,2,13
+"224","CWHC.136167.1","American Robin","Turdus migratorius","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"225","CWHC.136434.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"226","CWHC.137680.7","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2017-11-23",2017-11-23,4,16
+"227","CWHC.135975.1","Mallard","Anas platyrhynchos","Mirabel","Québec","Canada",45.70444444,-73.94138889,"Negative ","2017-09-01",2017-09-01,5,4
+"228","CWHC.136630.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"229","CWHC.138296.1","Wild Turkey","Meleagris gallopavo","Peterborough","Ontario","Canada",44.3547,-78.2692,"Negative ","2018-01-09",2018-01-09,2,23
+"230","CWHC.135902.1","Great Blue Heron","Ardea herodias","Charlottetown","Prince Edward Island","Canada",46.266761,-63.101676,"Negative ","2017-09-28",2017-09-28,4,8
+"231","CWHC.136196.1","Canada Goose","Branta canadensis","Sherwood Park","Alberta","Canada",53.5412,-113.2957,"Negative ","2017-08-17",2017-08-17,4,2
+"232","CWHC.135685.1","American White Pelican","Pelecanus erythrorhynchos","Lavallee Lake","Saskatchewan","Canada",54.2833333,-106.55,"Negative ","2017-08-18",2017-08-18,5,2
+"233","CWHC.136510.1","Canada Goose","Branta canadensis","Roberval","Québec","Canada",48.50333333,-72.21888889,"Negative ","2017-10-03",2017-10-03,2,9
+"234","CWHC.138151.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"235","CWHC.136917.1","Common Loon","Gavia immer","Harvey","New Brunswick","Canada",45.75116,-67.02007,"Negative ","2018-01-10",2018-01-10,3,23
+"236","CWHC.137013.1","Canada Goose","Branta canadensis","Saint-Eustache","Québec","Canada",45.56777778,-73.93361111,"Negative ","2017-11-16",2017-11-16,4,15
+"239","CWHC.136916.1","Northern Saw-Whet Owl","Aegolius acadicus","St. George","New Brunswick","Canada",45.1306531,-66.8261982,"Negative ","2018-01-11",2018-01-11,4,23
+"241","CWHC.136083.1","Mallard","Anas platyrhynchos","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"242","CWHC.135693.1","Ring-Billed Gull","Larus delawarensis","Longueuil","Québec","Canada",45.49096111,-73.47696944,"Suspicious ","2017-08-16",2017-08-16,3,2
+"243","CWHC.136089.1","American Coot","Fulica americana","","Saskatchewan","Canada",51.70114,-106.514567,"Negative ","2017-09-07",2017-09-07,4,5
+"244","CWHC.138158.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"245","CWHC.138149.1","Blue Jay","Cyanocitta cristata","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"246","CWHC.136824.1","Ring-Billed Gull","Larus delawarensis","Vaudreuil-Dorion","Québec","Canada",45.39361111,-74.03111111,"Negative ","2017-11-02",2017-11-02,4,13
+"247","CWHC.135932.1","Cooper's Hawk","Accipiter cooperii","Clavet","Saskatchewan","Canada",51.9963367,-106.3772733,"Negative ","2017-08-31",2017-08-31,4,4
+"248","CWHC.135645.1","American Crow","Corvus brachyrhynchos","Wilkie","Saskatchewan","Canada",52.4093634,-108.7036767,"Negative ","2017-08-18",2017-08-18,5,2
+"249","CWHC.135986.1","Double-Crested Cormorant","Phalacrocorax auritus","King City","Ontario","Canada",48.161933,-79.959311,"Negative ","2017-08-30",2017-08-30,3,4
+"250","CWHC.136436.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5405,-113.499,"Negative ","2017-09-14",2017-09-14,4,6
+"251","CWHC.136767.1","American Crow","Corvus brachyrhynchos","Leduc","Alberta","Canada",53.258,-113.5502,"Negative ","2017-10-19",2017-10-19,4,11
+"252","CWHC.135940.2","American Crow","Corvus brachyrhynchos","Minesing","Ontario","Canada",44.448273,-79.760589,"Unknown ","2017-08-28",2017-08-28,1,4
+"253","CWHC.136637.1","Northern Flicker","Colaptes auratus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"254","CWHC.136175.1","Rock Pigeon","Columba livia","Mayerthorpe","Alberta","Canada",53.9525,-115.1397,"Unknown ","2017-08-17",2017-08-17,4,2
+"255","CWHC.136932.1","Wild Turkey","Meleagris gallopavo","Sainte-Cécile-de-Masham","Québec","Canada",45.64793,-76.028608,"Negative ","2017-11-10",2017-11-10,5,14
+"256","CWHC.136976.1","Double-Crested Cormorant","Phalacrocorax auritus","Corran Ban","Prince Edward Island","Canada",46.3809,-63.03852,"Negative ","2018-01-10",2018-01-10,3,23
+"257","CWHC.138577.4","Herring Gull","Larus argentatus","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2018-01-16",2018-01-16,2,24
+"258","CWHC.136027.1","Mourning Dove","Zenaida macroura","Miltonvale Park","Prince Edward Island","Canada",46.31456,-63.23705,"Negative ","2017-09-28",2017-09-28,4,8
+"259","CWHC.135926.1","Red-Tailed Hawk","Buteo jamaicensis","Brampton","Ontario","Canada",43.667356,-79.711514,"Negative ","2017-08-23",2017-08-23,3,3
+"260","CWHC.137877.1","Northern goshawk","Accipiter gentilis","Rocky Point","Prince Edward Island","Canada",46.202405,-63.1503331,"Negative ","2018-01-10",2018-01-10,3,23
+"261","CWHC.136082.1","Green-Winged Teal","Anas carolinensis","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"262","CWHC.135874.1","American Crow","Corvus brachyrhynchos","Saskatoon","Saskatchewan","Canada",52.1332144,-106.6700458,"Negative ","2017-08-17",2017-08-17,4,2
+"263","CWHC.136657.1","Swainson's Hawk","Buteo swainsoni","St. Albert","Alberta","Canada",53.6305,-113.6256,"Negative ","2017-10-05",2017-10-05,4,9
+"264","CWHC.136081.1","American Coot","Fulica americana","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"265","CWHC.135701.1","Merlin","Falco columbarius","Bruno","Saskatchewan","Canada",52.2639843,-105.5253009,"Negative ","2017-08-18",2017-08-18,5,2
+"266","CWHC.136457.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"267","CWHC.136647.1","California Gull","Larus californicus","","Alberta","Canada",53.4174,-113.469,"Negative ","2017-10-05",2017-10-05,4,9
+"268","CWHC.136199.1","Swainson's Hawk","Buteo swainsoni","Calgary","Alberta","Canada",51.0486,-114.0708,"Negative ","2017-08-17",2017-08-17,4,2
+"269","CWHC.136642.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"270","CWHC.136423.1","American Robin","Turdus migratorius","Sherwood Park","Alberta","Canada",53.5412,-113.2957,"Negative ","2017-09-14",2017-09-14,4,6
+"271","CWHC.135994.1","Rock Pigeon","Columba livia","Charlottetown","Prince Edward Island","Canada",46.24223,-63.12162,"Negative ","2017-09-28",2017-09-28,4,8
+"272","CWHC.136262.1","Canada Goose","Branta canadensis","Toronto","Ontario","Canada",43.753519,-79.531676,"Negative ","2017-08-31",2017-08-31,4,4
+"273","CWHC.135730.1","Red-Tailed Hawk","Buteo jamaicensis","Saskatoon","Saskatchewan","Canada",52.052879,-106.741768,"Negative ","2017-08-18",2017-08-18,5,2
+"274","CWHC.135728.1","California Gull","Larus californicus","Saskatoon","Saskatchewan","Canada",52.1292985,-106.7145746,"Negative ","2017-08-18",2017-08-18,5,2
+"275","CWHC.136629.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"277","CWHC.136193.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"278","CWHC.136628.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"279","CWHC.138162.1","Eared Grebe","Podiceps nigricollis","Hardisty","Alberta","Canada",52.675,-111.3037,"Negative ","2017-12-12",2017-12-12,2,19
+"280","CWHC.137426.1","Mute Swan","Cygnus olor","Mooretown","Ontario","Canada",42.8526,-82.461955,"Positive ","2017-11-27",2017-11-27,1,17
+"281","CWHC.136956.1","Canada Goose","Branta canadensis","Saint-Eustache","Québec","Canada",45.56527778,-73.87638889,"Negative ","2017-11-14",2017-11-14,2,15
+"282","CWHC.136065.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Suspicious ","2017-09-07",2017-09-07,4,5
+"283","CWHC.136010.2","Blue Jay","Cyanocitta cristata","Metcalfe","Ontario","Canada",45.2107469,-75.432286,"Negative ","2017-09-11",2017-09-11,1,6
+"284","CWHC.136310.1","Common Eider","Somateria mollissima","Sainte-Anne-de-Bellevue","Québec","Canada",45.40305556,-73.95027778,"Negative ","2017-09-19",2017-09-19,2,7
+"286","CWHC.136091.1","American Coot","Fulica americana","","Saskatchewan","Canada",51.70114,-106.514567,"Negative ","2017-09-07",2017-09-07,4,5
+"287","CWHC.136600.1","Red-Tailed Hawk","Buteo jamaicensis","Digby","Nova Scotia","Canada",44.5973,-65.9492,"Negative ","2017-10-31",2017-10-31,2,13
+"288","CWHC.136438.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"289","CWHC.135702.1","American Crow","Corvus brachyrhynchos","Saskatoon","Saskatchewan","Canada",52.1332144,-106.6700458,"Negative ","2017-08-18",2017-08-18,5,2
+"292","CWHC.136746.1","Green-Winged Teal","Anas carolinensis","Jolicure","New Brunswick","Canada",45.935,-64.2572,"Negative ","2018-01-11",2018-01-11,4,23
+"293","CWHC.135636.2","Ring-Billed Gull","Larus delawarensis","Sorel","Québec","Canada",46.04833333,-73.11277778,"Negative ","2017-08-09",2017-08-09,3,1
+"294","CWHC.135642.1","Great Horned Owl","Bubo virginianus","Zeelandia","Saskatchewan","Canada",51.6161169,-107.7451432,"Negative ","2017-08-18",2017-08-18,5,2
+"295","CWHC.135868.1","Merlin","Falco columbarius","Melfort","Saskatchewan","Canada",52.8608387,-104.6142973,"Negative ","2017-08-17",2017-08-17,4,2
+"296","CWHC.136016.1","Herring Gull","Larus argentatus","Mississauga","Ontario","Canada",43.589412,-79.601428,"Negative ","2017-08-23",2017-08-23,3,3
+"297","CWHC.136460.1","Lesser Scaup","Aythya affinis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"298","CWHC.138632.2","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.394118,-75.703624,"Negative ","2018-01-18",2018-01-18,4,24
+"299","CWHC.138577.1","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2018-01-16",2018-01-16,2,24
+"300","CWHC.136638.1","Northern Flicker","Colaptes auratus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"301","CWHC.136182.1","California Gull","Larus californicus","Morinville","Alberta","Canada",53.7925,-113.6463,"Negative ","2017-08-17",2017-08-17,4,2
+"302","CWHC.135726.1","Merlin","Falco columbarius","Laval","Québec","Canada",45.58722222,-73.66888889,"Negative ","2017-08-10",2017-08-10,4,1
+"304","CWHC.136429.1","Cedar Waxwing","Bombycilla cedrorum","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"306","CWHC.136170.1","Blue Jay","Cyanocitta cristata","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"307","CWHC.136459.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"309","CWHC.136440.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"310","CWHC.136333.1","Double-Crested Cormorant","Phalacrocorax auritus","Val-Comeau","Nouveau-Brunswick","Canada",47.46415,-64.88524,"Negative ","2017-09-28",2017-09-28,4,8
+"311","CWHC.136079.1","American Coot","Fulica americana","","Saskatchewan","Canada",51.70114,-106.514567,"Negative ","2017-09-07",2017-09-07,4,5
+"312","CWHC.136452.1","American Crow","Corvus brachyrhynchos","Morinville","Alberta","Canada",53.7925,-113.6463,"Negative ","2017-09-14",2017-09-14,4,6
+"313","CWHC.137681.1","Red-Tailed Hawk","Buteo jamaicensis","Kensington","Prince Edward Island","Canada",46.42871,-63.62065,"Negative ","2018-01-10",2018-01-10,3,23
+"314","CWHC.136779.1","Wild Turkey","Meleagris gallopavo","Sainte-Sophie","Québec","Canada",45.815038,-73.928159,"Negative ","2017-10-25",2017-10-25,3,12
+"315","CWHC.136670.1","Canada Goose","Branta canadensis","Saint-Côme","Québec","Canada",46.4582,-74.04948,"Negative ","2017-10-17",2017-10-17,2,11
+"316","CWHC.135970.1","Sharp-Shinned Hawk","Accipiter striatus","Saskatoon","Saskatchewan","Canada",52.1332144,-106.6700458,"Negative ","2017-11-09",2017-11-09,4,14
+"317","CWHC.135725.1","Ring-Billed Gull","Larus delawarensis","Saskatoon","Saskatchewan","Canada",52.1332144,-106.6700458,"Negative ","2017-08-18",2017-08-18,5,2
+"318","CWHC.135673.1","Great Blue Heron","Ardea herodias","Québec","Québec","Canada",46.88527778,-71.18111111,"Negative ","2017-08-10",2017-08-10,4,1
+"319","CWHC.137815.1","Wild Turkey","Meleagris gallopavo","Jarvis","Ontario","Canada",42.920648,-80.123069,"Negative ","2017-12-08",2017-12-08,5,18
+"320","CWHC.136336.1","Rock Pigeon","Columba livia","Charlottetown","Prince Edward Island","Canada",46.22738,-63.14019,"Negative ","2017-09-28",2017-09-28,4,8
+"321","CWHC.136516.1","Canada Goose","Branta canadensis","Lambton","Québec","Canada",45.89861111,-71.10388889,"Negative ","2017-10-05",2017-10-05,4,9
+"322","CWHC.138167.1","Mallard","Anas platyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"323","CWHC.138173.1","Canada Goose","Branta canadensis","Leduc","Alberta","Canada",53.258,-113.5502,"Negative ","2017-12-12",2017-12-12,2,19
+"324","CWHC.136624.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"325","CWHC.138581.1","Mallard","Anas platyrhynchos","Bellevue","Alberta","Canada",49.5829,-114.3643,"Negative ","2018-01-17",2018-01-17,3,24
+"326","CWHC.138206.1","Northern Gannet","Morus bassanus","Baie Verte","New Brunswick","Canada",46.02725,-64.10045,"Negative ","2018-01-10",2018-01-10,3,23
+"327","CWHC.138176.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"328","CWHC.136791.1","Bald Eagle","Haliaeetus leucocephalus","Edmundston","New Brunswick","Canada",47.49721,-68.19346,"Negative ","2018-01-10",2018-01-10,3,23
+"329","CWHC.138581.3","Mallard","Anas platyrhynchos","Bellevue","Alberta","Canada",49.5829,-114.3643,"Negative ","2018-01-17",2018-01-17,3,24
+"330","CWHC.136998.2","Long-Tailed Duck","Clangula hyemalis","Toronto","Ontario","Canada",43.662648,-79.3100073,"Negative ","2017-11-14",2017-11-14,2,15
+"331","CWHC.136740.1","Trumpeter Swan","Cygnus buccinator","Cambridge","Ontario","Canada",43.3401,-80.278,"Negative ","2017-11-14",2017-11-14,2,15
+"332","CWHC.136425.1","American Robin","Turdus migratorius","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"333","CWHC.137325.1","Double-Crested Cormorant","Phalacrocorax auritus","Montréal","Québec","Canada",45.498818,-73.5974,"Negative ","2017-11-28",2017-11-28,2,17
+"334","CWHC.138164.1","Mallard","Anas platyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"335","CWHC.136092.1","American Coot","Fulica americana","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"336","CWHC.135754.1","Great Black-Backed Gull","Larus marinus","Covehead","Prince Edward Island","Canada",46.42923,-63.14393,"Negative ","2017-09-28",2017-09-28,4,8
+"337","CWHC.135935.1","Sharp-Shinned Hawk","Accipiter striatus","Langham","Saskatchewan","Canada",52.3589781,-106.9583581,"Negative ","2017-08-31",2017-08-31,4,4
+"338","CWHC.136747.1","American Wigeon","Anas americana","Sackville","New Brunswick","Canada",45.9086,-64.3006,"Negative ","2018-01-11",2018-01-11,4,23
+"339","CWHC.136619.1","American Crow","Corvus brachyrhynchos","Red Deer","Alberta","Canada",52.2681,-113.8112,"Negative ","2017-10-03",2017-10-03,2,9
+"340","CWHC.138159.1","Common Raven","Corvus corax","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"341","CWHC.136729.1","Rock Pigeon","Columba livia","Charlottetown","Prince Edward Island","Canada",46.2366544,-63.1281866,"Negative ","2017-10-31",2017-10-31,2,13
+"342","CWHC.135708.1","Common Raven","Corvus corax","Fairview","Prince Edward Island","Canada",46.1765023,-63.2160496,"Negative ","2017-09-28",2017-09-28,4,8
+"343","CWHC.135636.7","Ring-Billed Gull","Larus delawarensis","Sorel","Québec","Canada",46.04833333,-73.11277778,"Negative ","2017-08-09",2017-08-09,3,1
+"344","CWHC.136087.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Positive ","2017-09-07",2017-09-07,4,5
+"345","CWHC.137985.1","Great Horned Owl","Bubo virginianus","Ingersoll","Ontario","Canada",43.0117444,-80.8347036,"Negative ","2017-12-19",2017-12-19,2,20
+"346","CWHC.138179.1","Great Horned Owl","Bubo virginianus","Wildwood","Alberta","Canada",53.61,-115.2355,"Negative ","2017-12-12",2017-12-12,2,19
+"347","CWHC.135774.1","Double-Crested Cormorant","Phalacrocorax auritus","Sauble Beach","Ontario","Canada",44.618752,-81.267132,"Negative ","2017-08-16",2017-08-16,3,2
+"348","CWHC.136424.1","American Robin","Turdus migratorius","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"349","CWHC.136412.2","Mallard","Anas platyrhynchos","Hudson","Québec","Canada",45.468429,-74.160436,"Negative ","2017-10-05",2017-10-05,4,9
+"350","CWHC.136078.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Suspicious ","2017-10-11",2017-10-11,3,10
+"351","CWHC.136441.1","California Gull","Larus californicus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"352","CWHC.135628.1","American Crow","Corvus brachyrhynchos","Charlottetown","Prince Edward Island","Canada",46.2332521,-63.141263,"Negative ","2017-08-11",2017-08-11,5,1
+"354","CWHC.136173.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"355","CWHC.136622.1","Ring-Billed Gull","Larus delawarensis","Red Deer","Alberta","Canada",52.2681,-113.8112,"Negative ","2017-10-03",2017-10-03,2,9
+"356","CWHC.136998.5","Long-Tailed Duck","Clangula hyemalis","Toronto","Ontario","Canada",43.662648,-79.3100073,"Negative ","2017-11-14",2017-11-14,2,15
+"357","CWHC.136190.1","Common Raven","Corvus corax","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"358","CWHC.135875.1","American Crow","Corvus brachyrhynchos","Regina","Saskatchewan","Canada",50.4867883,-104.6695119,"Negative ","2017-08-31",2017-08-31,4,4
+"359","CWHC.138150.1","Blue Jay","Cyanocitta cristata","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"360","CWHC.138143.1","House Sparrow","Passer domesticus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"362","CWHC.138147.1","Northern Shrike","Lanius excubitor","Gibbons","Alberta","Canada",53.8258,-113.3266,"Negative ","2017-12-12",2017-12-12,2,19
+"364","CWHC.136399.1","American Crow","Corvus brachyrhynchos","Charlottetown","Prince Edward Island","Canada",46.22736,-63.14015,"Negative ","2017-10-31",2017-10-31,2,13
+"365","CWHC.137794.1","Bald Eagle","Haliaeetus leucocephalus","Tignish","Prince Edward Island","Canada",47.05266,-63.99291,"Negative ","2018-01-10",2018-01-10,3,23
+"366","CWHC.138171.1","Red-Necked Grebe","Podiceps grisegena","Provost","Alberta","Canada",52.356,-110.2608,"Negative ","2017-12-12",2017-12-12,2,19
+"367","CWHC.136014.1","Double-Crested Cormorant","Phalacrocorax auritus","Hamilton","Ontario","Canada",43.293795,-79.79325,"Negative ","2017-08-23",2017-08-23,3,3
+"368","CWHC.138166.1","Mallard","Anas platyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"369","CWHC.135636.3","Ring-Billed Gull","Larus delawarensis","Sorel","Québec","Canada",46.04833333,-73.11277778,"Suspicious ","2017-08-09",2017-08-09,3,1
+"371","CWHC.138161.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"372","CWHC.136636.1","Cedar Waxwing","Bombycilla cedrorum","Stony Plain","Alberta","Canada",53.5279,-114.0019,"Negative ","2017-10-05",2017-10-05,4,9
+"373","CWHC.136652.1","Redhead","Aythya americana","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"374","CWHC.136069.1","Mallard","Anas platyrhynchos","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"375","CWHC.136601.1","Rock Pigeon","Columba livia","Charlottetown","Prince Edward Island","Canada",46.23132,-63.12696,"Negative ","2017-10-31",2017-10-31,2,13
+"376","CWHC.137967.1","Tundra Swan","Cygnus columbianus","Pain Court","Ontario","Canada",42.366334,-82.405108,"Negative ","2017-12-18",2017-12-18,1,20
+"377","CWHC.136360.1","Common Loon","Gavia immer","Cambridge","Nova Scotia","Canada",45.06866048,-64.64375246,"Negative ","2017-10-31",2017-10-31,2,13
+"378","CWHC.135953.1","California Gull","Larus californicus","Saskatoon","Saskatchewan","Canada",52.1332144,-106.6700458,"Negative ","2017-08-31",2017-08-31,4,4
+"379","CWHC.136654.1","Sandhill Crane","Grus canadensis","Fort McMurray","Alberta","Canada",56.7264,-111.3803,"Negative ","2017-10-05",2017-10-05,4,9
+"380","CWHC.136235.1","Rock Pigeon","Columba livia","Charlottetown","Prince Edward Island","Canada",46.23701,-63.12817,"Negative ","2017-09-28",2017-09-28,4,8
+"381","CWHC.138141.1","Double-Crested Cormorant","Phalacrocorax auritus","Toronto","Ontario","Canada",43.7202412,-79.2411456,"Negative ","2017-11-27",2017-11-27,1,17
+"382","CWHC.136094.1","Green-Winged Teal","Anas carolinensis","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"383","CWHC.136085.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-10-11",2017-10-11,3,10
+"384","CWHC.136357.1","Double-Crested Cormorant","Phalacrocorax auritus","Bowmanville","Ontario","Canada",43.8695662,-78.7242711,"Unknown ","2018-01-10",2018-01-10,3,23
+"385","CWHC.136620.1","American Crow","Corvus brachyrhynchos","Red Deer","Alberta","Canada",52.2681,-113.8112,"Negative ","2017-10-03",2017-10-03,2,9
+"386","CWHC.138632.3","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.394118,-75.703624,"Negative ","2018-01-18",2018-01-18,4,24
+"387","CWHC.135867.1","American Crow","Corvus brachyrhynchos","Saskatoon","Saskatchewan","Canada",52.09231,-106.590778,"Negative ","2017-08-17",2017-08-17,4,2
+"388","CWHC.135636.4","Ring-Billed Gull","Larus delawarensis","Sorel","Québec","Canada",46.04833333,-73.11277778,"Negative ","2017-08-09",2017-08-09,3,1
+"389","CWHC.136335.1","Great Horned Owl","Bubo virginianus","Coleman","Prince Edward Island","Canada",46.63626,-64.17091,"Negative ","2017-09-28",2017-09-28,4,8
+"390","CWHC.135873.1","Ring-Billed Gull","Larus delawarensis","Clavet","Saskatchewan","Canada",52.11567,-106.350301,"Negative ","2017-08-18",2017-08-18,5,2
+"391","CWHC.136454.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"392","CWHC.137680.8","Lesser Scaup","Aythya affinis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Positive ","2017-11-23",2017-11-23,4,16
+"393","CWHC.136451.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"394","CWHC.136998.3","Long-Tailed Duck","Clangula hyemalis","Toronto","Ontario","Canada",43.662648,-79.3100073,"Negative ","2017-11-14",2017-11-14,2,15
+"395","CWHC.136715.1","Great Blue Heron","Ardea herodias","Sainte-Julienne","Québec","Canada",45.97055556,-73.71666667,"Negative ","2017-10-19",2017-10-19,4,11
+"396","CWHC.136617.1","Double-Crested Cormorant","Phalacrocorax auritus","Winter River","Prince Edward Island","Canada",46.34464,-63.06632,"Negative ","2017-10-31",2017-10-31,2,13
+"397","CWHC.136020.1","Ring-Billed Gull","Larus delawarensis","Scarborough","Ontario","Canada",43.717877,-79.271235,"Negative ","2017-08-23",2017-08-23,3,3
+"398","CWHC.136735.1","Wild Turkey","Meleagris gallopavo","Indian River Reserve","Ontario","Canada",44.3457,-78.07,"Negative ","2017-10-30",2017-10-30,1,13
+"400","CWHC.136295.1","Ring-Billed Gull","Larus delawarensis","Hamilton","Ontario","Canada",43.274291,-79.864017,"Positive ","2017-09-06",2017-09-06,3,5
+"401","CWHC.136053.1","American Crow","Corvus brachyrhynchos","Strathroy","Ontario","Canada",42.9754343,-81.6320135,"Negative ","2017-08-24",2017-08-24,4,3
+"402","CWHC.135952.1","California Gull","Larus californicus","Saskatoon","Saskatchewan","Canada",52.1092921,-106.5650368,"Negative ","2017-08-31",2017-08-31,4,4
+"403","CWHC.138170.1","Lesser Scaup","Aythya affinis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"404","CWHC.136179.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"405","CWHC.136634.1","Sora","Porzana carolina","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"406","CWHC.136296.2","Mallard","Anas platyrhynchos","Peterborough","Ontario","Canada",44.331715,-78.331127,"Negative ","2017-09-22",2017-09-22,5,7
+"407","CWHC.136239.1","Double-Crested Cormorant","Phalacrocorax auritus","Huntingdon","Québec","Canada",45.08861111,-74.17111111,"Negative ","2017-09-19",2017-09-19,2,7
+"408","CWHC.137984.1","Great Horned Owl","Bubo virginianus","Orillia","Ontario","Canada",44.6671955,-79.2745703,"Negative ","2017-12-19",2017-12-19,2,20
+"409","CWHC.136171.1","Northern Flicker","Colaptes auratus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"411","CWHC.136166.1","American Robin","Turdus migratorius","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"412","CWHC.138145.1","Bohemian Waxwing","Bombycilla garrulus","Millet","Alberta","Canada",53.0921,-113.4703,"Negative ","2017-12-12",2017-12-12,2,19
+"413","CWHC.138172.1","Bufflehead","Bucephala albeola","Smoky Lake","Alberta","Canada",54.1124,-112.4759,"Negative ","2017-12-12",2017-12-12,2,19
+"414","CWHC.136183.1","Franklin's Gull","Larus pipixcan","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"415","CWHC.135787.1","Red-Tailed Hawk","Buteo jamaicensis","Kingston","Ontario","Canada",44.271375,-76.567838,"Negative ","2017-08-09",2017-08-09,3,1
+"416","CWHC.135871.1","Franklin's Gull","Larus pipixcan","Borden","Saskatchewan","Canada",52.4050451,-107.2396555,"Negative ","2017-08-21",2017-08-21,1,3
+"418","CWHC.136203.1","Great Blue Heron","Ardea herodias","Saint-Jérôme","Québec","Canada",45.77111111,-74.06805556,"Negative ","2017-09-12",2017-09-12,2,6
+"419","CWHC.136463.1","Merlin","Falco columbarius","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"420","CWHC.136197.1","Great Horned Owl","Bubo virginianus","Strathmore","Alberta","Canada",51.0379,-113.4003,"Negative ","2017-08-17",2017-08-17,4,2
+"421","CWHC.135822.1","American Crow","Corvus brachyrhynchos","Clavet","Saskatchewan","Canada",51.9963367,-106.3772733,"Negative ","2017-08-31",2017-08-31,4,4
+"422","CWHC.136431.1","Common Nighthawk","Chordeiles minor","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"423","CWHC.135974.1","Great Blue Heron","Ardea herodias","Saint-Jean-de-Matha","Québec","Canada",46.26,-73.53027778,"Negative ","2017-09-01",2017-09-01,5,4
+"424","CWHC.137813.1","Wild Turkey","Meleagris gallopavo","Huron/Kinloss Municipality","Ontario","Canada",0,0,"Negative ","2017-12-12",2017-12-12,2,19
+"425","CWHC.136615.1","Canada Goose","Branta canadensis","Souris","Prince Edward Island","Canada",46.26298,-62.40382,"Negative ","2017-10-31",2017-10-31,2,13
+"427","CWHC.136437.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"428","CWHC.136823.1","Herring Gull","Larus argentatus","Saint-Gabriel-de-Brandon","Québec","Canada",46.30611111,-73.36416667,"Negative ","2017-11-02",2017-11-02,4,13
+"430","CWHC.135823.1","Swainson's Hawk","Buteo swainsoni","Aberdeen","Saskatchewan","Canada",52.3261036,-106.2914913,"Negative ","2017-08-31",2017-08-31,4,4
+"432","CWHC.136333.3","Double-Crested Cormorant","Phalacrocorax auritus","Val-Comeau","Nouveau-Brunswick","Canada",47.46415,-64.88524,"Negative ","2017-09-28",2017-09-28,4,8
+"433","CWHC.136038.1","Merlin","Falco columbarius","Acton","Ontario","Canada",43.6296921,-80.0414997,"Negative ","2017-08-22",2017-08-22,2,3
+"434","CWHC.135705.1","Red-Tailed Hawk","Buteo jamaicensis","Yorkton","Saskatchewan","Canada",51.2174482,-102.4739331,"Negative ","2017-08-18",2017-08-18,5,2
+"435","CWHC.138148.1","Pied-Billed Grebe","Podilymbus podiceps","","Alberta","Canada",53.4723,-113.7226,"Negative ","2017-12-12",2017-12-12,2,19
+"436","CWHC.136447.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"437","CWHC.136816.1","American Crow","Corvus brachyrhynchos","Cornwall","Ontario","Canada",45.033761,-74.66555,"Negative ","2017-10-31",2017-10-31,2,13
+"438","CWHC.136226.3","Common Murre","Uria aalge","Witless Bay","Newfoundland and Labrador","Canada",47.2362,-52.77985,"Negative ","2017-09-28",2017-09-28,4,8
+"439","CWHC.136644.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"440","CWHC.136464.1","Canada Goose","Branta canadensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-19",2017-09-19,2,7
+"441","CWHC.135720.1","Ring-Billed Gull","Larus delawarensis","Saint-Hyacinthe","Québec","Canada",45.6306875,-72.956339,"Negative ","2017-08-10",2017-08-10,4,1
+"442","CWHC.136150.1","Great Horned Owl","Bubo virginianus","Bradwell","Saskatchewan","Canada",51.9472684,-106.2331633,"Negative ","2017-10-10",2017-10-10,2,10
+"443","CWHC.136805.1","Wild Turkey","Meleagris gallopavo","Sawyerville","Québec","Canada",45.36225,-71.475221,"Negative ","2017-10-31",2017-10-31,2,13
+"445","CWHC.136098.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"446","CWHC.135661.1","Great Horned Owl","Bubo virginianus","Leask","Saskatchewan","Canada",52.9399159,-106.4508639,"Negative ","2017-08-18",2017-08-18,5,2
+"447","CWHC.137680.1","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2017-11-23",2017-11-23,4,16
+"448","CWHC.136649.1","Lesser Scaup","Aythya affinis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"449","CWHC.136004.2","Herring Gull","Larus argentatus","Lac-Etchemin","Québec","Canada",46.39555556,-70.50833333,"Negative ","2017-08-30",2017-08-30,3,4
+"450","CWHC.136194.1","Canada Goose","Branta canadensis","Duhamel","Alberta","Canada",52.8892,-112.964,"Negative ","2017-08-17",2017-08-17,4,2
+"451","CWHC.135878.1","Ring-Billed Gull","Larus delawarensis","Sorel","Québec","Canada",46.03694147,-73.11057466,"Suspicious ","2017-08-23",2017-08-23,3,3
+"452","CWHC.135921.1","Red-Tailed Hawk","Buteo jamaicensis","Mississauga","Ontario","Canada",43.588937,-79.591865,"Negative ","2017-08-23",2017-08-23,3,3
+"453","CWHC.135992.1","Blue Jay","Cyanocitta cristata","Georgian Bay","Ontario","Canada",44.918315,-79.726012,"Negative ","2017-08-31",2017-08-31,4,4
+"455","CWHC.135785.1","Ring-Billed Gull","Larus delawarensis","Saskatoon","Saskatchewan","Canada",52.1332144,-106.6700458,"Suspicious ","2017-08-31",2017-08-31,4,4
+"456","CWHC.136387.1","Trumpeter Swan","Cygnus buccinator","Saint-Fulgence","Québec","Canada",48.44646667,-70.90744444,"Negative ","2017-09-28",2017-09-28,4,8
+"457","CWHC.135643.1","Swainson's Hawk","Buteo swainsoni","Saskatoon","Saskatchewan","Canada",52.1122025,-106.7315402,"Negative ","2017-08-18",2017-08-18,5,2
+"458","CWHC.136266.1","American Crow","Corvus brachyrhynchos","New Glasgow","Prince Edward Island","Canada",46.5000799,-63.406539,"Negative ","2017-09-28",2017-09-28,4,8
+"460","CWHC.136625.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"461","CWHC.136790.1","Snow Goose","Chen caerulescens","Portneuf","Québec","Canada",48.62722222,-69.09638889,"Negative ","2017-10-26",2017-10-26,4,12
+"462","CWHC.136008.1","Mallard","Anas platyrhynchos","Sherbrooke","Québec","Canada",45.38694444,-72.00333333,"Suspicious ","2017-08-31",2017-08-31,4,4
+"463","CWHC.136096.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"464","CWHC.135963.1","Blue Jay","Cyanocitta cristata","North Rustico","Prince Edward Island","Canada",46.4722854,-63.3251449,"Negative ","2017-09-28",2017-09-28,4,8
+"465","CWHC.138156.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"466","CWHC.136227.1","American Crow","Corvus brachyrhynchos","Fergus","Ontario","Canada",43.700987,-80.362253,"Negative ","2017-09-11",2017-09-11,1,6
+"467","CWHC.136709.1","Short-Eared Owl","Asio flammeus","Hilden","Nova Scotia","Canada",45.30771,-63.30066,"Negative ","2017-10-31",2017-10-31,2,13
+"468","CWHC.136467.1","Great Horned Owl","Bubo virginianus","Millet","Alberta","Canada",53.0921,-113.4703,"Negative ","2017-09-19",2017-09-19,2,7
+"469","CWHC.135882.2","Double-Crested Cormorant","Phalacrocorax auritus","Tobermory","Ontario","Canada",45.249671,-81.640491,"Negative ","2017-08-17",2017-08-17,4,2
+"470","CWHC.137812.1","Snowy Owl","Bubo scandiacus","","Ontario","Canada",44.20548831,-80.85938125,"Negative ","2017-12-08",2017-12-08,5,18
+"471","CWHC.136333.2","Double-Crested Cormorant","Phalacrocorax auritus","Val-Comeau","Nouveau-Brunswick","Canada",47.46415,-64.88524,"Negative ","2017-09-28",2017-09-28,4,8
+"472","CWHC.138428.1","Canada Goose","Branta canadensis","Milton","Ontario","Canada",43.50284,-79.844951,"Negative ","2018-01-15",2018-01-15,1,24
+"473","CWHC.135687.1","American White Pelican","Pelecanus erythrorhynchos","Lavallee Lake","Saskatchewan","Canada",54.2833333,-106.55,"Negative ","2017-08-18",2017-08-18,5,2
+"474","CWHC.136004.1","Herring Gull","Larus argentatus","Lac-Etchemin","Québec","Canada",46.39555556,-70.50833333,"Negative ","2017-08-30",2017-08-30,3,4
+"475","CWHC.136430.1","Cedar Waxwing","Bombycilla cedrorum","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"476","CWHC.138205.1","Northern Gannet","Morus bassanus","Grande-Digue","New Brunswick","Canada",46.3433898,-64.5735357,"Negative ","2018-01-10",2018-01-10,3,23
+"477","CWHC.136748.1","American Wigeon","Anas americana","Sackville","New Brunswick","Canada",45.9086,-64.3006,"Negative ","2018-01-11",2018-01-11,4,23
+"479","CWHC.136072.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"480","CWHC.137169.1","Snowy Owl","Bubo scandiacus","Rollo Bay","Prince Edward Island","Canada",46.36005,-62.33733,"Negative ","2018-01-10",2018-01-10,3,23
+"481","CWHC.136172.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"482","CWHC.135727.1","Ring-Billed Gull","Larus delawarensis","Saskatoon","Saskatchewan","Canada",52.1265128,-106.686898,"Negative ","2017-08-18",2017-08-18,5,2
+"483","CWHC.136432.1","Mountain Bluebird","Sialia currucoides","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"484","CWHC.135755.1","Great Horned Owl","Bubo virginianus","O'Leary","Prince Edward Island","Canada",46.7070567,-64.2269435,"Negative ","2017-09-28",2017-09-28,4,8
+"485","CWHC.136475.1","Great Horned Owl","Bubo virginianus","Nanton","Alberta","Canada",50.3137,-113.9228,"Negative ","2017-10-13",2017-10-13,5,10
+"486","CWHC.136433.1","Pine Siskin","Carduelis pinus","","Alberta","Canada",53.4176,-114.5666,"Negative ","2017-09-14",2017-09-14,4,6
+"487","CWHC.137322.2","Ring-Billed Gull","Larus delawarensis","Longueuil","Québec","Canada",45.54363,-73.4715403,"Negative ","2017-11-28",2017-11-28,2,17
+"488","CWHC.136090.1","American Coot","Fulica americana","","Saskatchewan","Canada",51.70114,-106.514567,"Negative ","2017-09-07",2017-09-07,4,5
+"489","CWHC.137259.1","Canada Goose","Branta canadensis","Sainte-Julienne","Québec","Canada",45.97222222,-73.75472222,"Negative ","2017-11-23",2017-11-23,4,16
+"490","CWHC.136640.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"491","CWHC.138144.1","American Robin","Turdus migratorius","Newbrook","Alberta","Canada",54.3261,-112.9509,"Negative ","2017-12-12",2017-12-12,2,19
+"492","CWHC.138632.1","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.394118,-75.703624,"Negative ","2018-01-18",2018-01-18,4,24
+"493","CWHC.138061.1","Ring-Billed Gull","Larus delawarensis","Cowansville","Québec","Canada",45.20555556,-72.74666667,"Negative ","2017-12-28",2017-12-28,4,21
+"494","CWHC.136176.1","Green-Winged Teal","Anas carolinensis","Wainwright","Alberta","Canada",52.8331,-110.8505,"Negative ","2017-08-17",2017-08-17,4,2
+"495","CWHC.136163.1","Common Grackle","Quiscalus quiscula","","Alberta","Canada",53.6164,-113.5086,"Negative ","2017-08-17",2017-08-17,4,2
+"496","CWHC.136771.1","Great Horned Owl","Bubo virginianus","Cardiff","Alberta","Canada",53.7745,-113.5953,"Negative ","2017-10-19",2017-10-19,4,11
+"497","CWHC.135777.1","Red-Tailed Hawk","Buteo jamaicensis","Spiritwood","Saskatchewan","Canada",53.3645441,-107.5174338,"Negative ","2017-08-31",2017-08-31,4,4
+"498","CWHC.137427.1","Long-Tailed Duck","Clangula hyemalis","Long Point [Norfolk]","Ontario","Canada",42.54833056,-80.20875049,"Negative ","2017-11-27",2017-11-27,1,17
+"500","CWHC.136659.1","Red-Tailed Hawk","Buteo jamaicensis","St. Albert","Alberta","Canada",53.6305,-113.6256,"Negative ","2017-10-05",2017-10-05,4,9
+"501","CWHC.136442.1","Franklin's Gull","Larus pipixcan","","Alberta","Canada",55.2867,-114.7711,"Negative ","2017-09-14",2017-09-14,4,6
+"502","CWHC.138169.1","Lesser Scaup","Aythya affinis","Nisku","Alberta","Canada",53.3374,-113.524,"Negative ","2017-12-12",2017-12-12,2,19
+"503","CWHC.136157.1","Bald Eagle","Haliaeetus leucocephalus","Murray River","Prince Edward Island","Canada",46.03016,-62.66438,"Negative ","2017-09-29",2017-09-29,5,8
+"504","CWHC.136350.1","Peregrine Falcon","Falco peregrinus","Meadow Lake","Saskatchewan","Canada",54.1316746,-108.428026,"Negative ","2017-11-09",2017-11-09,4,14
+"505","CWHC.136766.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-19",2017-10-19,4,11
+"506","CWHC.136635.1","Sora","Porzana carolina","Fort Saskatchewan","Alberta","Canada",53.7007,-113.2095,"Negative ","2017-10-05",2017-10-05,4,9
+"508","CWHC.136748.2","American Wigeon","Anas americana","Sackville","New Brunswick","Canada",45.9086,-64.3006,"Negative ","2018-01-11",2018-01-11,4,23
+"509","CWHC.137124.1","American Crow","Corvus brachyrhynchos","Lennox Island Indian Reserve No. 1","Prince Edward Island","Canada",46.6145534,-63.8468316,"Negative ","2018-01-10",2018-01-10,3,23
+"510","CWHC.135917.1","Cooper's Hawk","Accipiter cooperii","Toronto","Ontario","Canada",43.694197,-79.540315,"Negative ","2017-08-23",2017-08-23,3,3
+"511","CWHC.136191.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"512","CWHC.136219.2","Canada Warbler","Wilsonia canadensis","Guelph","Ontario","Canada",43.539822,-80.2885,"","2018-01-08",2018-01-08,1,23
+"514","CWHC.138398.1","Canada Goose","Branta canadensis","Saint-Georges-de-Clarenceville","Québec","Canada",45.01704167,-73.18964167,"Negative ","2018-01-16",2018-01-16,2,24
+"515","CWHC.137127.1","Rock Pigeon","Columba livia","Fredericton","New Brunswick","Canada",45.9784426,-66.6584021,"Negative ","2018-01-10",2018-01-10,3,23
+"516","CWHC.138468.1","Trumpeter Swan","Cygnus buccinator","Washago","Ontario","Canada",44.749374,-79.334048,"Negative ","2018-01-16",2018-01-16,2,24
+"517","CWHC.136487.1","Great Horned Owl","Bubo virginianus","Victoria Harbour","Ontario","Canada",44.6939,-78.7402,"Negative ","2017-11-22",2017-11-22,3,16
+"518","CWHC.135636.6","Ring-Billed Gull","Larus delawarensis","Sorel","Québec","Canada",46.04833333,-73.11277778,"Negative ","2017-08-09",2017-08-09,3,1
+"519","CWHC.135869.1","American Crow","Corvus brachyrhynchos","Saskatoon","Saskatchewan","Canada",52.13094888,-106.7230892,"Negative ","2017-08-21",2017-08-21,1,3
+"520","CWHC.136106.1","Merlin","Falco columbarius","Tignish","Prince Edward Island","Canada",46.91459,-64.02864,"Negative ","2017-09-28",2017-09-28,4,8
+"521","CWHC.135703.1","American Crow","Corvus brachyrhynchos","Saskatoon","Saskatchewan","Canada",52.1813808,-106.6346536,"Negative ","2017-08-18",2017-08-18,5,2
+"522","CWHC.135653.1","Mallard","Anas platyrhynchos","Leask","Saskatchewan","Canada",52.9399159,-106.4508639,"Positive ","2017-08-18",2017-08-18,5,2
+"523","CWHC.138396.2","Greater White-Fronted Goose","Anser albifrons","Amos","Québec","Canada",48.569811,-78.121372,"Negative ","2018-01-16",2018-01-16,2,24
+"524","CWHC.136621.1","American Crow","Corvus brachyrhynchos","Red Deer","Alberta","Canada",52.2681,-113.8112,"Negative ","2017-10-03",2017-10-03,2,9
+"525","CWHC.138168.1","Mallard","Anas platyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"526","CWHC.135872.1","American Crow","Corvus brachyrhynchos","","Saskatchewan","Canada",0,0,"Negative ","2017-08-17",2017-08-17,4,2
+"527","CWHC.136004.4","Herring Gull","Larus argentatus","Lac-Etchemin","Québec","Canada",46.39555556,-70.50833333,"Negative ","2017-08-30",2017-08-30,3,4
+"528","CWHC.138163.1","American Coot","Fulica americana","Wainwright","Alberta","Canada",52.8331,-110.8505,"Negative ","2017-12-12",2017-12-12,2,19
+"529","CWHC.136466.1","Great Horned Owl","Bubo virginianus","","Alberta","Canada",53.1964,-113.0548,"Negative ","2017-09-19",2017-09-19,2,7
+"530","CWHC.138174.1","Great Blue Heron","Ardea herodias","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"531","CWHC.135818.1","American Crow","Corvus brachyrhynchos","Saskatoon","Saskatchewan","Canada",52.0960472,-106.6136392,"Negative ","2017-08-31",2017-08-31,4,4
+"532","CWHC.136071.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Suspicious ","2017-09-07",2017-09-07,4,5
+"533","CWHC.137232.1","American Crow","Corvus brachyrhynchos","Toronto","Ontario","Canada",43.7984094,-79.2733615,"Negative ","2017-11-23",2017-11-23,4,16
+"534","CWHC.135821.1","American Crow","Corvus brachyrhynchos","Saskatoon","Saskatchewan","Canada",52.1419278,-106.6904563,"Negative ","2017-08-31",2017-08-31,4,4
+"535","CWHC.137820.1","Snowy Owl","Bubo scandiacus","Beamsville","Ontario","Canada",43.1973238,-79.4376299,"Negative ","2017-12-08",2017-12-08,5,18
+"536","CWHC.136333.5","Double-Crested Cormorant","Phalacrocorax auritus","Val-Comeau","Nouveau-Brunswick","Canada",47.46415,-64.88524,"Negative ","2017-09-28",2017-09-28,4,8
+"537","CWHC.135689.1","American White Pelican","Pelecanus erythrorhynchos","Lavallee Lake","Saskatchewan","Canada",54.2833333,-106.55,"Negative ","2017-08-18",2017-08-18,5,2
+"538","CWHC.138362.1","Snowy Owl","Bubo scandiacus","Prince Edward","Ontario","Canada",43.8985663,-77.2755042,"Negative ","2018-01-11",2018-01-11,4,23
+"539","CWHC.135915.1","Red-Tailed Hawk","Buteo jamaicensis","North York","Ontario","Canada",43.720385,-79.338948,"Negative ","2017-08-23",2017-08-23,3,3
+"540","CWHC.135697.1","Bald Eagle","Haliaeetus leucocephalus","Chicoutimi","Québec","Canada",48.41186111,-71.21186111,"Negative ","2017-08-15",2017-08-15,2,2
+"541","CWHC.136655.1","Great Blue Heron","Ardea herodias","Westlock","Alberta","Canada",54.1522,-113.8514,"Negative ","2017-10-05",2017-10-05,4,9
+"542","CWHC.135809.1","Sharp-Shinned Hawk","Accipiter striatus","Saint-Basile","Québec","Canada",46.73444444,-71.80333333,"Negative ","2017-08-17",2017-08-17,4,2
+"543","CWHC.136181.1","California Gull","Larus californicus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"544","CWHC.135772.1","Cooper's Hawk","Accipiter cooperii","Mont-Laurier","Québec","Canada",46.55555556,-75.41583333,"Negative ","2017-08-17",2017-08-17,4,2
+"545","CWHC.136004.3","Herring Gull","Larus argentatus","Lac-Etchemin","Québec","Canada",46.39555556,-70.50833333,"Negative ","2017-08-30",2017-08-30,3,4
+"546","CWHC.136758.1","Canada Goose","Branta canadensis","Salaberry-de-Valleyfield","Québec","Canada",45.16555556,-74.17027778,"Negative ","2017-10-24",2017-10-24,2,12
+"548","CWHC.136228.1","Blue Jay","Cyanocitta cristata","Tyendinaga Mohawk Territory","Ontario","Canada",44.184555,-77.069335,"Negative ","2017-09-11",2017-09-11,1,6
+"549","CWHC.136333.4","Double-Crested Cormorant","Phalacrocorax auritus","Val-Comeau","Nouveau-Brunswick","Canada",47.46415,-64.88524,"Negative ","2017-09-28",2017-09-28,4,8
+"550","CWHC.136465.1","Great Horned Owl","Bubo virginianus","","Alberta","Canada",52.9598,-113.8253,"Negative ","2017-09-19",2017-09-19,2,7
+"551","CWHC.136318.1","Great Black-Backed Gull","Larus marinus","Trois-Rivières","Québec","Canada",46.295,-72.60555556,"Negative ","2017-09-21",2017-09-21,4,7
+"552","CWHC.136010.1","Blue Jay","Cyanocitta cristata","Metcalfe","Ontario","Canada",45.2107469,-75.432286,"Negative ","2017-09-11",2017-09-11,1,6
+"553","CWHC.135884.1","Ring-Billed Gull","Larus delawarensis","Saskatoon","Saskatchewan","Canada",52.1509123,-106.5934869,"Suspicious ","2017-08-31",2017-08-31,4,4
+"554","CWHC.137127.2","Rock Pigeon","Columba livia","Fredericton","New Brunswick","Canada",45.9784426,-66.6584021,"Negative ","2018-01-10",2018-01-10,3,23
+"555","CWHC.136075.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"556","CWHC.136769.1","Ring-Billed Gull","Larus delawarensis","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-19",2017-10-19,4,11
+"557","CWHC.136886.1","Bald Eagle","Haliaeetus leucocephalus","Seaview","Prince Edward Island","Canada",46.5442,-63.58807,"Negative ","2018-01-11",2018-01-11,4,23
+"558","CWHC.136226.1","Common Murre","Uria aalge","Witless Bay","Newfoundland and Labrador","Canada",47.2362,-52.77985,"Negative ","2017-09-28",2017-09-28,4,8
+"559","CWHC.136446.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"560","CWHC.136848.1","Ring-Billed Gull","Larus delawarensis","Longueuil","Québec","Canada",45.52416667,-73.50777778,"Negative ","2017-11-07",2017-11-07,2,14
+"561","CWHC.136073.1","Mallard","Anas platyrhynchos","","Saskatchewan","Canada",51.701373,-106.51696,"Positive ","2017-10-11",2017-10-11,3,10
+"562","CWHC.136263.1","Canada Goose","Branta canadensis","Vaughan","Ontario","Canada",43.781962,-79.542286,"Negative ","2017-08-31",2017-08-31,4,4
+"563","CWHC.135666.1","Canada Goose","Branta canadensis","Alberry Plains","Prince Edward Island","Canada",46.2135207,-62.7638687,"Negative ","2017-08-11",2017-08-11,5,1
+"564","CWHC.135636.5","Ring-Billed Gull","Larus delawarensis","Sorel","Québec","Canada",46.04833333,-73.11277778,"Negative ","2017-08-09",2017-08-09,3,1
+"565","CWHC.136331.1","Mallard","Anas platyrhynchos","Leask","Saskatchewan","Canada",52.9399159,-106.4508639,"Negative ","2017-11-09",2017-11-09,4,14
+"566","CWHC.136084.1","Mallard","Anas platyrhynchos","","Saskatchewan","Canada",51.701373,-106.51696,"Suspicious ","2017-10-11",2017-10-11,3,10
+"567","CWHC.136462.1","Mallard","Anas platyrhynchos","Fort Saskatchewan","Alberta","Canada",53.7007,-113.2095,"Negative ","2017-09-14",2017-09-14,4,6
+"568","CWHC.136186.1","Ring-Billed Gull","Larus delawarensis","Grande Prairie","Alberta","Canada",55.1699,-118.7986,"Negative ","2017-08-17",2017-08-17,4,2
+"569","CWHC.136764.1","Rock Pigeon","Columba livia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-19",2017-10-19,4,11
+"570","CWHC.138157.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"571","CWHC.136226.2","Common Murre","Uria aalge","Witless Bay","Newfoundland and Labrador","Canada",47.2362,-52.77985,"Negative ","2017-09-28",2017-09-28,4,8
+"572","CWHC.136095.1","Mallard","Anas platyrhynchos","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"574","CWHC.136076.1","Green-Winged Teal","Anas carolinensis","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"575","CWHC.136070.1","Blue-Winged Teal","Anas discors","","Saskatchewan","Canada",51.701373,-106.51696,"Negative ","2017-09-07",2017-09-07,4,5
+"576","CWHC.136332.1","Great Horned Owl","Bubo virginianus","Leask","Saskatchewan","Canada",52.9399159,-106.4508639,"Negative ","2017-11-09",2017-11-09,4,14
+"577","CWHC.135704.1","Double-Crested Cormorant","Phalacrocorax auritus","Kingston","Ontario","Canada",44.250011,-76.603402,"Negative ","2017-08-09",2017-08-09,3,1
+"578","CWHC.137680.6","Canada Goose","Branta canadensis","Ottawa","Ontario","Canada",45.393302,-75.701534,"Negative ","2017-11-23",2017-11-23,4,16
+"579","CWHC.136278.1","Swainson's Hawk","Buteo swainsoni","Madden","Alberta","Canada",51.2712,-114.2189,"Negative ","2017-09-19",2017-09-19,2,7
+"580","CWHC.136264.1","Canada Goose","Branta canadensis","Vaughan","Ontario","Canada",43.781962,-79.542286,"Negative ","2017-08-31",2017-08-31,4,4
+"581","CWHC.138160.1","Herring Gull","Larus argentatus","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-12-12",2017-12-12,2,19
+"582","CWHC.136450.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-09-14",2017-09-14,4,6
+"583","CWHC.135658.1","Merlin","Falco columbarius","Saskatoon","Saskatchewan","Canada",52.1419942,-106.675111,"Negative ","2017-08-18",2017-08-18,5,2
+"584","CWHC.136192.1","American Crow","Corvus brachyrhynchos","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-08-17",2017-08-17,4,2
+"585","CWHC.136226.4","Common Murre","Uria aalge","Witless Bay","Newfoundland and Labrador","Canada",47.2362,-52.77985,"Negative ","2017-09-28",2017-09-28,4,8
+"586","CWHC.136213.1","American Crow","Corvus brachyrhynchos","Curve Lake","Ontario","Canada",44.463526,-78.37158,"Negative ","2017-09-11",2017-09-11,1,6
+"587","CWHC.136998.6","Long-Tailed Duck","Clangula hyemalis","Toronto","Ontario","Canada",43.662648,-79.3100073,"Negative ","2017-11-14",2017-11-14,2,15
+"588","CWHC.136428.1","Canada Goose","Branta canadensis","Leduc","Alberta","Canada",53.258,-113.5502,"Negative ","2017-09-19",2017-09-19,2,7
+"589","CWHC.137434.1","American Kestrel","Falco sparverius","Encana Offshore Platform","Nova Scotia","Canada",43.81269,-60.68837,"Negative ","2018-01-11",2018-01-11,4,23
+"590","CWHC.136631.1","Black-billed Magpie","Pica hudsonia","Edmonton","Alberta","Canada",53.5444,-113.4909,"Negative ","2017-10-05",2017-10-05,4,9
+"591","CWHC.136004.8","Ring-Billed Gull","Larus delawarensis","Lac-Etchemin","Québec","Canada",46.39555556,-70.50833333,"Negative ","2017-08-30",2017-08-30,3,4
+"592","CWHC.136469.1","Great Blue Heron","Ardea herodias","","Alberta","Canada",53.8448,-111.55,"Negative ","2017-09-19",2017-09-19,2,7
