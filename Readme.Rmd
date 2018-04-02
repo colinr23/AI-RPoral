@@ -14,7 +14,7 @@ This site includes scripts, markdown reports, and a shiny web app for acquiring,
 ### Directory Structure
 The WHIP portal here is implemented as an [R-project](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects) in R-Studio. There are four directories in the base directory, as follows:
 
-* apps - includes R file and data directory for report-dashboard - the Shiny web app developed to visualize and explore the extracted datasets
+* apps - includes R file and data directory for report-dashboard - the Shiny web app developed to visualize and explore the extracted datasets. The working version of the web app is [viewable here](http://geographic.shinyapps.io/report-dashboard/)
      +  report-dashboard
 * data (excluded from repo version) - all data files in sub directories:
      +  basemap
